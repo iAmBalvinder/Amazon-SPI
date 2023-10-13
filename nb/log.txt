@@ -1,0 +1,8 @@
+Processing page 11 - Category Best undefined with 0 books
+PAGE 12 - https://www.amazon.com/gp/bestsellers/books/12/ref=pd_zg_hrsr_books 		 ----------------ERROR
+Processing page 13 - Category Best undefined with 0 books
+PAGE 14 - https://www.amazon.com/gp/bestsellers/books/14/ref=pd_zg_hrsr_books 		 ----------------ERROR
+PAGE 15 - https://www.amazon.com/gp/bestsellers/books/15/ref=pd_zg_hrsr_books 		 ----------------ERROR
+PAGE 16 - https://www.amazon.com/gp/bestsellers/books/16/ref=pd_zg_hrsr_books 		 ----------------ERROR
+Processing page 17 - Category Best Literature & Fiction with 30 books
+Processing page 18 - Category Best Mystery, Thriller & Suspense with 30 books
