@@ -1,8 +1,1885 @@
-Processing page 11 - Category Best undefined with 0 books
-PAGE 12 - https://www.amazon.com/gp/bestsellers/books/12/ref=pd_zg_hrsr_books 		 ----------------ERROR
-Processing page 13 - Category Best undefined with 0 books
-PAGE 14 - https://www.amazon.com/gp/bestsellers/books/14/ref=pd_zg_hrsr_books 		 ----------------ERROR
-PAGE 15 - https://www.amazon.com/gp/bestsellers/books/15/ref=pd_zg_hrsr_books 		 ----------------ERROR
-PAGE 16 - https://www.amazon.com/gp/bestsellers/books/16/ref=pd_zg_hrsr_books 		 ----------------ERROR
-Processing page 17 - Category Best Literature & Fiction with 30 books
-Processing page 18 - Category Best Mystery, Thriller & Suspense with 30 books
+PAGE 1 - https://www.amazon.com/gp/bestsellers/books/1/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 2 - https://www.amazon.com/gp/bestsellers/books/2/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 3 - Category Business & Money with 30 books
+PAGE 4 - https://www.amazon.com/gp/bestsellers/books/4/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 5 - Category Computers & Technology with 30 books
+Processing page 6 - Category Cookbooks, Food & Wine with 30 books
+Processing page 7 - Category Dance & Electronic with 30 books
+Processing page 8 - Category undefined with 0 books
+PAGE 8 - https://www.amazon.com/gp/bestsellers/books/8/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 9 - Category History with 30 books
+PAGE 10 - https://www.amazon.com/gp/bestsellers/books/10/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 11 - Category undefined with 0 books
+PAGE 11 - https://www.amazon.com/gp/bestsellers/books/11/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 12 - https://www.amazon.com/gp/bestsellers/books/12/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 13 - Category undefined with 0 books
+PAGE 13 - https://www.amazon.com/gp/bestsellers/books/13/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 14 - https://www.amazon.com/gp/bestsellers/books/14/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 15 - Category undefined with 0 books
+PAGE 15 - https://www.amazon.com/gp/bestsellers/books/15/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 16 - https://www.amazon.com/gp/bestsellers/books/16/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 17 - https://www.amazon.com/gp/bestsellers/books/17/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 18 - https://www.amazon.com/gp/bestsellers/books/18/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 19 - Category undefined with 0 books
+PAGE 19 - https://www.amazon.com/gp/bestsellers/books/19/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 20 - https://www.amazon.com/gp/bestsellers/books/20/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 21 - https://www.amazon.com/gp/bestsellers/books/21/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 22 - Category Religion & Spirituality with 30 books
+Processing page 23 - Category Romance with 30 books
+Processing page 24 - Category undefined with 0 books
+PAGE 24 - https://www.amazon.com/gp/bestsellers/books/24/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 25 - Category Science Fiction & Fantasy with 30 books
+PAGE 26 - https://www.amazon.com/gp/bestsellers/books/26/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 27 - Category Travel with 30 books
+PAGE 28 - https://www.amazon.com/gp/bestsellers/books/28/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 29 - https://www.amazon.com/gp/bestsellers/books/29/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 30 - Category Alternative Rock with 30 books
+Processing page 31 - Category Blues with 30 books
+Processing page 32 - Category Folk with 30 books
+PAGE 33 - https://www.amazon.com/gp/bestsellers/books/33/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 34 - Category Jazz with 30 books
+Processing page 35 - Category Special Interest with 30 books
+PAGE 36 - https://www.amazon.com/gp/bestsellers/books/36/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 37 - Category Pop with 30 books
+Processing page 38 - Category Rap & Hip-Hop with 30 books
+Processing page 39 - Category R&B with 30 books
+PAGE 40 - https://www.amazon.com/gp/bestsellers/books/40/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 41 - Category undefined with 0 books
+PAGE 41 - https://www.amazon.com/gp/bestsellers/books/41/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 42 - https://www.amazon.com/gp/bestsellers/books/42/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 43 - https://www.amazon.com/gp/bestsellers/books/43/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 44 - Category undefined with 0 books
+PAGE 44 - https://www.amazon.com/gp/bestsellers/books/44/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 45 - Category Deals in Books with 30 books
+PAGE 46 - https://www.amazon.com/gp/bestsellers/books/46/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 47 - https://www.amazon.com/gp/bestsellers/books/47/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 48 - Category Crafts, Hobbies & Home with 30 books
+Processing page 49 - Category Horror Literature & Fiction with 30 books
+Processing page 50 - Category undefined with 0 books
+PAGE 50 - https://www.amazon.com/gp/bestsellers/books/50/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 51 - Category undefined with 0 books
+PAGE 51 - https://www.amazon.com/gp/bestsellers/books/51/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 52 - Category undefined with 0 books
+PAGE 52 - https://www.amazon.com/gp/bestsellers/books/52/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 53 - Category undefined with 30 books
+PAGE 54 - https://www.amazon.com/gp/bestsellers/books/54/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 55 - Category undefined with 0 books
+PAGE 55 - https://www.amazon.com/gp/bestsellers/books/55/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 56 - Category undefined with 0 books
+PAGE 56 - https://www.amazon.com/gp/bestsellers/books/56/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 57 - Category undefined with 0 books
+PAGE 57 - https://www.amazon.com/gp/bestsellers/books/57/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 58 - Category undefined with 0 books
+PAGE 58 - https://www.amazon.com/gp/bestsellers/books/58/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 59 - https://www.amazon.com/gp/bestsellers/books/59/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 60 - Category undefined with 0 books
+PAGE 60 - https://www.amazon.com/gp/bestsellers/books/60/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 61 - Category undefined with 0 books
+PAGE 61 - https://www.amazon.com/gp/bestsellers/books/61/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 62 - Category undefined with 0 books
+PAGE 62 - https://www.amazon.com/gp/bestsellers/books/62/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 63 - https://www.amazon.com/gp/bestsellers/books/63/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 64 - Category undefined with 0 books
+PAGE 64 - https://www.amazon.com/gp/bestsellers/books/64/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 65 - https://www.amazon.com/gp/bestsellers/books/65/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 66 - Category undefined with 0 books
+PAGE 66 - https://www.amazon.com/gp/bestsellers/books/66/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 67 - Category undefined with 0 books
+PAGE 67 - https://www.amazon.com/gp/bestsellers/books/67/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 68 - https://www.amazon.com/gp/bestsellers/books/68/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 69 - https://www.amazon.com/gp/bestsellers/books/69/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 70 - https://www.amazon.com/gp/bestsellers/books/70/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 71 - https://www.amazon.com/gp/bestsellers/books/71/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 72 - Category undefined with 0 books
+PAGE 72 - https://www.amazon.com/gp/bestsellers/books/72/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 73 - https://www.amazon.com/gp/bestsellers/books/73/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 74 - https://www.amazon.com/gp/bestsellers/books/74/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 75 - Category Science & Math with 30 books
+Processing page 76 - Category undefined with 0 books
+PAGE 76 - https://www.amazon.com/gp/bestsellers/books/76/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 77 - Category undefined with 0 books
+PAGE 77 - https://www.amazon.com/gp/bestsellers/books/77/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 78 - Category undefined with 0 books
+PAGE 78 - https://www.amazon.com/gp/bestsellers/books/78/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 79 - https://www.amazon.com/gp/bestsellers/books/79/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 80 - Category undefined with 0 books
+PAGE 80 - https://www.amazon.com/gp/bestsellers/books/80/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 81 - Category undefined with 0 books
+PAGE 81 - https://www.amazon.com/gp/bestsellers/books/81/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 82 - Category undefined with 0 books
+PAGE 82 - https://www.amazon.com/gp/bestsellers/books/82/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 83 - Category undefined with 0 books
+PAGE 83 - https://www.amazon.com/gp/bestsellers/books/83/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 84 - Category Opera & Vocal with 0 books
+PAGE 84 - https://www.amazon.com/gp/bestsellers/books/84/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 85 - Category Classical with 30 books
+Processing page 86 - Category Humor & Entertainment with 30 books
+Processing page 87 - Category Computer & Video Game Strategy with 30 books
+Processing page 88 - Category undefined with 0 books
+PAGE 88 - https://www.amazon.com/gp/bestsellers/books/88/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 89 - Category undefined with 0 books
+PAGE 89 - https://www.amazon.com/gp/bestsellers/books/89/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 90 - Category undefined with 0 books
+PAGE 90 - https://www.amazon.com/gp/bestsellers/books/90/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 91 - Category undefined with 0 books
+PAGE 91 - https://www.amazon.com/gp/bestsellers/books/91/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 92 - Category undefined with 0 books
+PAGE 92 - https://www.amazon.com/gp/bestsellers/books/92/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 93 - https://www.amazon.com/gp/bestsellers/books/93/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 94 - Category undefined with 0 books
+PAGE 94 - https://www.amazon.com/gp/bestsellers/books/94/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 95 - https://www.amazon.com/gp/bestsellers/books/95/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 96 - https://www.amazon.com/gp/bestsellers/books/96/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 97 - Category undefined with 0 books
+PAGE 97 - https://www.amazon.com/gp/bestsellers/books/97/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 98 - Category undefined with 0 books
+PAGE 98 - https://www.amazon.com/gp/bestsellers/books/98/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 99 - Category undefined with 0 books
+PAGE 99 - https://www.amazon.com/gp/bestsellers/books/99/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 100 - Category undefined with 0 books
+PAGE 100 - https://www.amazon.com/gp/bestsellers/books/100/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 101 - Category undefined with 0 books
+PAGE 101 - https://www.amazon.com/gp/bestsellers/books/101/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 102 - Category undefined with 0 books
+PAGE 102 - https://www.amazon.com/gp/bestsellers/books/102/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 103 - https://www.amazon.com/gp/bestsellers/books/103/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 104 - https://www.amazon.com/gp/bestsellers/books/104/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 105 - Category undefined with 0 books
+PAGE 105 - https://www.amazon.com/gp/bestsellers/books/105/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 106 - https://www.amazon.com/gp/bestsellers/books/106/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 107 - Category undefined with 0 books
+PAGE 107 - https://www.amazon.com/gp/bestsellers/books/107/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 108 - Category undefined with 0 books
+PAGE 108 - https://www.amazon.com/gp/bestsellers/books/108/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 109 - Category undefined with 0 books
+PAGE 109 - https://www.amazon.com/gp/bestsellers/books/109/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 110 - Category undefined with 0 books
+PAGE 110 - https://www.amazon.com/gp/bestsellers/books/110/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 111 - Category undefined with 0 books
+PAGE 111 - https://www.amazon.com/gp/bestsellers/books/111/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 112 - Category  with 0 books
+PAGE 112 - https://www.amazon.com/gp/bestsellers/books/112/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 113 - Category undefined with 0 books
+PAGE 113 - https://www.amazon.com/gp/bestsellers/books/113/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 114 - Category undefined with 0 books
+PAGE 114 - https://www.amazon.com/gp/bestsellers/books/114/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 115 - https://www.amazon.com/gp/bestsellers/books/115/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 116 - https://www.amazon.com/gp/bestsellers/books/116/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 117 - Category undefined with 0 books
+PAGE 117 - https://www.amazon.com/gp/bestsellers/books/117/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 118 - Category undefined with 0 books
+PAGE 118 - https://www.amazon.com/gp/bestsellers/books/118/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 119 - Category undefined with 0 books
+PAGE 119 - https://www.amazon.com/gp/bestsellers/books/119/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 120 - Category undefined with 0 books
+PAGE 120 - https://www.amazon.com/gp/bestsellers/books/120/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 121 - Category undefined with 0 books
+PAGE 121 - https://www.amazon.com/gp/bestsellers/books/121/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 122 - https://www.amazon.com/gp/bestsellers/books/122/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 123 - Category undefined with 0 books
+PAGE 123 - https://www.amazon.com/gp/bestsellers/books/123/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 124 - https://www.amazon.com/gp/bestsellers/books/124/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 125 - Category undefined with 0 books
+PAGE 125 - https://www.amazon.com/gp/bestsellers/books/125/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 126 - Category undefined with 30 books
+Processing page 127 - Category undefined with 30 books
+Processing page 128 - Category undefined with 30 books
+Processing page 129 - Category undefined with 30 books
+Processing page 130 - Category  with 0 books
+PAGE 130 - https://www.amazon.com/gp/bestsellers/books/130/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 131 - Category undefined with 30 books
+PAGE 132 - https://www.amazon.com/gp/bestsellers/books/132/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 133 - Category undefined with 30 books
+PAGE 134 - https://www.amazon.com/gp/bestsellers/books/134/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 135 - Category undefined with 30 books
+Processing page 136 - Category undefined with 30 books
+Processing page 137 - Category undefined with 0 books
+PAGE 137 - https://www.amazon.com/gp/bestsellers/books/137/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 138 - Category undefined with 0 books
+PAGE 138 - https://www.amazon.com/gp/bestsellers/books/138/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 139 - Category undefined with 30 books
+PAGE 140 - https://www.amazon.com/gp/bestsellers/books/140/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 141 - Category undefined with 30 books
+Processing page 142 - Category undefined with 0 books
+PAGE 142 - https://www.amazon.com/gp/bestsellers/books/142/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 143 - Category undefined with 0 books
+PAGE 143 - https://www.amazon.com/gp/bestsellers/books/143/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 144 - Category undefined with 30 books
+PAGE 145 - https://www.amazon.com/gp/bestsellers/books/145/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 146 - https://www.amazon.com/gp/bestsellers/books/146/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 147 - https://www.amazon.com/gp/bestsellers/books/147/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 148 - Category undefined with 0 books
+PAGE 148 - https://www.amazon.com/gp/bestsellers/books/148/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 149 - Category undefined with 0 books
+PAGE 149 - https://www.amazon.com/gp/bestsellers/books/149/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 150 - https://www.amazon.com/gp/bestsellers/books/150/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 151 - Category undefined with 0 books
+PAGE 151 - https://www.amazon.com/gp/bestsellers/books/151/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 152 - Category undefined with 0 books
+PAGE 152 - https://www.amazon.com/gp/bestsellers/books/152/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 153 - Category undefined with 0 books
+PAGE 153 - https://www.amazon.com/gp/bestsellers/books/153/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 154 - https://www.amazon.com/gp/bestsellers/books/154/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 155 - Category undefined with 0 books
+PAGE 155 - https://www.amazon.com/gp/bestsellers/books/155/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 156 - Category undefined with 0 books
+PAGE 156 - https://www.amazon.com/gp/bestsellers/books/156/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 157 - Category undefined with 0 books
+PAGE 157 - https://www.amazon.com/gp/bestsellers/books/157/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 158 - https://www.amazon.com/gp/bestsellers/books/158/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 159 - Category undefined with 0 books
+PAGE 159 - https://www.amazon.com/gp/bestsellers/books/159/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 160 - Category undefined with 0 books
+PAGE 160 - https://www.amazon.com/gp/bestsellers/books/160/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 161 - Category undefined with 0 books
+PAGE 161 - https://www.amazon.com/gp/bestsellers/books/161/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 162 - Category undefined with 0 books
+PAGE 162 - https://www.amazon.com/gp/bestsellers/books/162/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 163 - https://www.amazon.com/gp/bestsellers/books/163/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 164 - Category undefined with 0 books
+PAGE 164 - https://www.amazon.com/gp/bestsellers/books/164/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 165 - https://www.amazon.com/gp/bestsellers/books/165/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 166 - https://www.amazon.com/gp/bestsellers/books/166/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 167 - https://www.amazon.com/gp/bestsellers/books/167/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 168 - Category undefined with 0 books
+PAGE 168 - https://www.amazon.com/gp/bestsellers/books/168/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 169 - https://www.amazon.com/gp/bestsellers/books/169/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 170 - Category undefined with 0 books
+PAGE 170 - https://www.amazon.com/gp/bestsellers/books/170/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 171 - Category undefined with 0 books
+PAGE 171 - https://www.amazon.com/gp/bestsellers/books/171/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 172 - Category undefined with 0 books
+PAGE 172 - https://www.amazon.com/gp/bestsellers/books/172/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 173 - https://www.amazon.com/gp/bestsellers/books/173/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 174 - Category undefined with 0 books
+PAGE 174 - https://www.amazon.com/gp/bestsellers/books/174/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 175 - Category undefined with 0 books
+PAGE 175 - https://www.amazon.com/gp/bestsellers/books/175/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 176 - https://www.amazon.com/gp/bestsellers/books/176/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 177 - Category undefined with 0 books
+PAGE 177 - https://www.amazon.com/gp/bestsellers/books/177/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 178 - Category undefined with 0 books
+PAGE 178 - https://www.amazon.com/gp/bestsellers/books/178/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 179 - https://www.amazon.com/gp/bestsellers/books/179/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 180 - Category undefined with 0 books
+PAGE 180 - https://www.amazon.com/gp/bestsellers/books/180/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 181 - Category undefined with 0 books
+PAGE 181 - https://www.amazon.com/gp/bestsellers/books/181/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 182 - Category undefined with 0 books
+PAGE 182 - https://www.amazon.com/gp/bestsellers/books/182/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 183 - Category undefined with 0 books
+PAGE 183 - https://www.amazon.com/gp/bestsellers/books/183/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 184 - https://www.amazon.com/gp/bestsellers/books/184/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 185 - Category undefined with 0 books
+PAGE 185 - https://www.amazon.com/gp/bestsellers/books/185/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 186 - Category undefined with 0 books
+PAGE 186 - https://www.amazon.com/gp/bestsellers/books/186/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 187 - Category undefined with 0 books
+PAGE 187 - https://www.amazon.com/gp/bestsellers/books/187/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 188 - https://www.amazon.com/gp/bestsellers/books/188/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 189 - https://www.amazon.com/gp/bestsellers/books/189/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 190 - Category undefined with 0 books
+PAGE 190 - https://www.amazon.com/gp/bestsellers/books/190/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 191 - https://www.amazon.com/gp/bestsellers/books/191/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 192 - https://www.amazon.com/gp/bestsellers/books/192/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 193 - Category undefined with 0 books
+PAGE 193 - https://www.amazon.com/gp/bestsellers/books/193/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 194 - Category undefined with 0 books
+PAGE 194 - https://www.amazon.com/gp/bestsellers/books/194/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 195 - Category undefined with 0 books
+PAGE 195 - https://www.amazon.com/gp/bestsellers/books/195/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 196 - https://www.amazon.com/gp/bestsellers/books/196/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 197 - https://www.amazon.com/gp/bestsellers/books/197/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 198 - Category undefined with 0 books
+PAGE 198 - https://www.amazon.com/gp/bestsellers/books/198/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 199 - Category undefined with 0 books
+PAGE 199 - https://www.amazon.com/gp/bestsellers/books/199/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 200 - https://www.amazon.com/gp/bestsellers/books/200/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 201 - Category undefined with 0 books
+PAGE 201 - https://www.amazon.com/gp/bestsellers/books/201/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 202 - Category undefined with 0 books
+PAGE 202 - https://www.amazon.com/gp/bestsellers/books/202/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 203 - https://www.amazon.com/gp/bestsellers/books/203/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 204 - Category undefined with 0 books
+PAGE 204 - https://www.amazon.com/gp/bestsellers/books/204/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 205 - Category undefined with 0 books
+PAGE 205 - https://www.amazon.com/gp/bestsellers/books/205/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 206 - Category undefined with 0 books
+PAGE 206 - https://www.amazon.com/gp/bestsellers/books/206/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 207 - https://www.amazon.com/gp/bestsellers/books/207/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 208 - Category undefined with 0 books
+PAGE 208 - https://www.amazon.com/gp/bestsellers/books/208/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 209 - Category undefined with 0 books
+PAGE 209 - https://www.amazon.com/gp/bestsellers/books/209/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 210 - Category undefined with 0 books
+PAGE 210 - https://www.amazon.com/gp/bestsellers/books/210/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 211 - Category undefined with 0 books
+PAGE 211 - https://www.amazon.com/gp/bestsellers/books/211/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 212 - Category undefined with 0 books
+PAGE 212 - https://www.amazon.com/gp/bestsellers/books/212/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 213 - https://www.amazon.com/gp/bestsellers/books/213/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 214 - https://www.amazon.com/gp/bestsellers/books/214/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 215 - https://www.amazon.com/gp/bestsellers/books/215/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 216 - https://www.amazon.com/gp/bestsellers/books/216/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 217 - https://www.amazon.com/gp/bestsellers/books/217/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 218 - Category undefined with 0 books
+PAGE 218 - https://www.amazon.com/gp/bestsellers/books/218/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 219 - Category undefined with 0 books
+PAGE 219 - https://www.amazon.com/gp/bestsellers/books/219/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 220 - Category undefined with 0 books
+PAGE 220 - https://www.amazon.com/gp/bestsellers/books/220/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 221 - Category undefined with 0 books
+PAGE 221 - https://www.amazon.com/gp/bestsellers/books/221/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 222 - Category undefined with 0 books
+PAGE 222 - https://www.amazon.com/gp/bestsellers/books/222/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 223 - Category undefined with 0 books
+PAGE 223 - https://www.amazon.com/gp/bestsellers/books/223/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 224 - Category undefined with 0 books
+PAGE 224 - https://www.amazon.com/gp/bestsellers/books/224/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 225 - https://www.amazon.com/gp/bestsellers/books/225/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 226 - Category undefined with 0 books
+PAGE 226 - https://www.amazon.com/gp/bestsellers/books/226/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 227 - Category undefined with 0 books
+PAGE 227 - https://www.amazon.com/gp/bestsellers/books/227/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 228 - https://www.amazon.com/gp/bestsellers/books/228/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 229 - Category undefined with 0 books
+PAGE 229 - https://www.amazon.com/gp/bestsellers/books/229/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 230 - Category undefined with 0 books
+PAGE 230 - https://www.amazon.com/gp/bestsellers/books/230/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 231 - https://www.amazon.com/gp/bestsellers/books/231/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 232 - Category undefined with 0 books
+PAGE 232 - https://www.amazon.com/gp/bestsellers/books/232/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 233 - https://www.amazon.com/gp/bestsellers/books/233/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 234 - Category undefined with 0 books
+PAGE 234 - https://www.amazon.com/gp/bestsellers/books/234/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 235 - Category undefined with 0 books
+PAGE 235 - https://www.amazon.com/gp/bestsellers/books/235/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 236 - https://www.amazon.com/gp/bestsellers/books/236/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 237 - https://www.amazon.com/gp/bestsellers/books/237/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 238 - Category undefined with 0 books
+PAGE 238 - https://www.amazon.com/gp/bestsellers/books/238/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 239 - Category undefined with 0 books
+PAGE 239 - https://www.amazon.com/gp/bestsellers/books/239/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 240 - Category undefined with 0 books
+PAGE 240 - https://www.amazon.com/gp/bestsellers/books/240/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 241 - Category undefined with 0 books
+PAGE 241 - https://www.amazon.com/gp/bestsellers/books/241/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 242 - Category undefined with 0 books
+PAGE 242 - https://www.amazon.com/gp/bestsellers/books/242/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 243 - https://www.amazon.com/gp/bestsellers/books/243/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 244 - Category undefined with 0 books
+PAGE 244 - https://www.amazon.com/gp/bestsellers/books/244/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 245 - Category undefined with 0 books
+PAGE 245 - https://www.amazon.com/gp/bestsellers/books/245/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 246 - Category  with 0 books
+PAGE 246 - https://www.amazon.com/gp/bestsellers/books/246/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 247 - https://www.amazon.com/gp/bestsellers/books/247/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 248 - Category undefined with 0 books
+PAGE 248 - https://www.amazon.com/gp/bestsellers/books/248/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 249 - Category  with 0 books
+PAGE 249 - https://www.amazon.com/gp/bestsellers/books/249/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 250 - Category undefined with 0 books
+PAGE 250 - https://www.amazon.com/gp/bestsellers/books/250/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 251 - Category undefined with 0 books
+PAGE 251 - https://www.amazon.com/gp/bestsellers/books/251/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 252 - Category undefined with 0 books
+PAGE 252 - https://www.amazon.com/gp/bestsellers/books/252/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 253 - Category undefined with 0 books
+PAGE 253 - https://www.amazon.com/gp/bestsellers/books/253/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 254 - Category undefined with 0 books
+PAGE 254 - https://www.amazon.com/gp/bestsellers/books/254/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 255 - Category undefined with 0 books
+PAGE 255 - https://www.amazon.com/gp/bestsellers/books/255/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 256 - Category undefined with 0 books
+PAGE 256 - https://www.amazon.com/gp/bestsellers/books/256/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 257 - https://www.amazon.com/gp/bestsellers/books/257/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 258 - Category undefined with 0 books
+PAGE 258 - https://www.amazon.com/gp/bestsellers/books/258/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 259 - Category undefined with 0 books
+PAGE 259 - https://www.amazon.com/gp/bestsellers/books/259/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 260 - Category undefined with 0 books
+PAGE 260 - https://www.amazon.com/gp/bestsellers/books/260/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 261 - Category undefined with 0 books
+PAGE 261 - https://www.amazon.com/gp/bestsellers/books/261/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 262 - Category  with 0 books
+PAGE 262 - https://www.amazon.com/gp/bestsellers/books/262/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 263 - Category undefined with 0 books
+PAGE 263 - https://www.amazon.com/gp/bestsellers/books/263/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 264 - https://www.amazon.com/gp/bestsellers/books/264/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 265 - Category undefined with 0 books
+PAGE 265 - https://www.amazon.com/gp/bestsellers/books/265/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 266 - Category undefined with 0 books
+PAGE 266 - https://www.amazon.com/gp/bestsellers/books/266/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 267 - Category undefined with 0 books
+PAGE 267 - https://www.amazon.com/gp/bestsellers/books/267/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 268 - Category undefined with 0 books
+PAGE 268 - https://www.amazon.com/gp/bestsellers/books/268/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 269 - Category undefined with 0 books
+PAGE 269 - https://www.amazon.com/gp/bestsellers/books/269/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 270 - Category undefined with 0 books
+PAGE 270 - https://www.amazon.com/gp/bestsellers/books/270/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 271 - Category  with 0 books
+PAGE 271 - https://www.amazon.com/gp/bestsellers/books/271/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 272 - Category  with 0 books
+PAGE 272 - https://www.amazon.com/gp/bestsellers/books/272/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 273 - Category undefined with 0 books
+PAGE 273 - https://www.amazon.com/gp/bestsellers/books/273/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 274 - Category undefined with 0 books
+PAGE 274 - https://www.amazon.com/gp/bestsellers/books/274/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 275 - Category undefined with 0 books
+PAGE 275 - https://www.amazon.com/gp/bestsellers/books/275/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 276 - Category undefined with 0 books
+PAGE 276 - https://www.amazon.com/gp/bestsellers/books/276/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 277 - Category undefined with 0 books
+PAGE 277 - https://www.amazon.com/gp/bestsellers/books/277/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 278 - https://www.amazon.com/gp/bestsellers/books/278/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 279 - https://www.amazon.com/gp/bestsellers/books/279/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 280 - Category undefined with 0 books
+PAGE 280 - https://www.amazon.com/gp/bestsellers/books/280/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 281 - https://www.amazon.com/gp/bestsellers/books/281/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 282 - https://www.amazon.com/gp/bestsellers/books/282/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 283 - https://www.amazon.com/gp/bestsellers/books/283/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 284 - Category undefined with 0 books
+PAGE 284 - https://www.amazon.com/gp/bestsellers/books/284/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 285 - Category undefined with 0 books
+PAGE 285 - https://www.amazon.com/gp/bestsellers/books/285/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 286 - Category undefined with 0 books
+PAGE 286 - https://www.amazon.com/gp/bestsellers/books/286/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 287 - Category undefined with 0 books
+PAGE 287 - https://www.amazon.com/gp/bestsellers/books/287/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 288 - Category undefined with 0 books
+PAGE 288 - https://www.amazon.com/gp/bestsellers/books/288/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 289 - Category undefined with 0 books
+PAGE 289 - https://www.amazon.com/gp/bestsellers/books/289/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 290 - Category undefined with 0 books
+PAGE 290 - https://www.amazon.com/gp/bestsellers/books/290/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 291 - https://www.amazon.com/gp/bestsellers/books/291/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 292 - Category undefined with 0 books
+PAGE 292 - https://www.amazon.com/gp/bestsellers/books/292/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 293 - Category undefined with 0 books
+PAGE 293 - https://www.amazon.com/gp/bestsellers/books/293/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 294 - Category undefined with 0 books
+PAGE 294 - https://www.amazon.com/gp/bestsellers/books/294/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 295 - Category undefined with 0 books
+PAGE 295 - https://www.amazon.com/gp/bestsellers/books/295/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 296 - Category undefined with 0 books
+PAGE 296 - https://www.amazon.com/gp/bestsellers/books/296/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 297 - https://www.amazon.com/gp/bestsellers/books/297/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 298 - Category undefined with 0 books
+PAGE 298 - https://www.amazon.com/gp/bestsellers/books/298/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 299 - Category undefined with 0 books
+PAGE 299 - https://www.amazon.com/gp/bestsellers/books/299/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 300 - https://www.amazon.com/gp/bestsellers/books/300/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 301 - Category undefined with 0 books
+PAGE 301 - https://www.amazon.com/gp/bestsellers/books/301/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 302 - Category undefined with 0 books
+PAGE 302 - https://www.amazon.com/gp/bestsellers/books/302/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 303 - Category undefined with 0 books
+PAGE 303 - https://www.amazon.com/gp/bestsellers/books/303/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 304 - https://www.amazon.com/gp/bestsellers/books/304/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 305 - Category undefined with 0 books
+PAGE 305 - https://www.amazon.com/gp/bestsellers/books/305/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 306 - Category undefined with 0 books
+PAGE 306 - https://www.amazon.com/gp/bestsellers/books/306/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 307 - Category undefined with 0 books
+PAGE 307 - https://www.amazon.com/gp/bestsellers/books/307/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 308 - Category undefined with 0 books
+PAGE 308 - https://www.amazon.com/gp/bestsellers/books/308/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 309 - https://www.amazon.com/gp/bestsellers/books/309/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 310 - https://www.amazon.com/gp/bestsellers/books/310/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 311 - Category  with 0 books
+PAGE 311 - https://www.amazon.com/gp/bestsellers/books/311/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 312 - Category undefined with 0 books
+PAGE 312 - https://www.amazon.com/gp/bestsellers/books/312/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 313 - https://www.amazon.com/gp/bestsellers/books/313/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 314 - Category undefined with 0 books
+PAGE 314 - https://www.amazon.com/gp/bestsellers/books/314/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 315 - Category undefined with 0 books
+PAGE 315 - https://www.amazon.com/gp/bestsellers/books/315/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 316 - Category undefined with 0 books
+PAGE 316 - https://www.amazon.com/gp/bestsellers/books/316/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 317 - Category undefined with 0 books
+PAGE 317 - https://www.amazon.com/gp/bestsellers/books/317/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 318 - https://www.amazon.com/gp/bestsellers/books/318/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 319 - Category undefined with 0 books
+PAGE 319 - https://www.amazon.com/gp/bestsellers/books/319/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 320 - Category undefined with 0 books
+PAGE 320 - https://www.amazon.com/gp/bestsellers/books/320/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 321 - https://www.amazon.com/gp/bestsellers/books/321/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 322 - Category undefined with 0 books
+PAGE 322 - https://www.amazon.com/gp/bestsellers/books/322/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 323 - Category undefined with 0 books
+PAGE 323 - https://www.amazon.com/gp/bestsellers/books/323/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 324 - https://www.amazon.com/gp/bestsellers/books/324/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 325 - Category undefined with 0 books
+PAGE 325 - https://www.amazon.com/gp/bestsellers/books/325/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 326 - Category undefined with 0 books
+PAGE 326 - https://www.amazon.com/gp/bestsellers/books/326/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 327 - Category undefined with 0 books
+PAGE 327 - https://www.amazon.com/gp/bestsellers/books/327/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 328 - https://www.amazon.com/gp/bestsellers/books/328/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 329 - Category undefined with 0 books
+PAGE 329 - https://www.amazon.com/gp/bestsellers/books/329/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 330 - Category undefined with 0 books
+PAGE 330 - https://www.amazon.com/gp/bestsellers/books/330/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 331 - Category undefined with 0 books
+PAGE 331 - https://www.amazon.com/gp/bestsellers/books/331/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 332 - Category undefined with 0 books
+PAGE 332 - https://www.amazon.com/gp/bestsellers/books/332/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 333 - Category  with 0 books
+PAGE 333 - https://www.amazon.com/gp/bestsellers/books/333/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 334 - Category undefined with 0 books
+PAGE 334 - https://www.amazon.com/gp/bestsellers/books/334/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 335 - https://www.amazon.com/gp/bestsellers/books/335/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 336 - Category undefined with 0 books
+PAGE 336 - https://www.amazon.com/gp/bestsellers/books/336/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 337 - Category undefined with 0 books
+PAGE 337 - https://www.amazon.com/gp/bestsellers/books/337/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 338 - Category undefined with 0 books
+PAGE 338 - https://www.amazon.com/gp/bestsellers/books/338/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 339 - Category undefined with 0 books
+PAGE 339 - https://www.amazon.com/gp/bestsellers/books/339/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 340 - Category  with 0 books
+PAGE 340 - https://www.amazon.com/gp/bestsellers/books/340/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 341 - Category undefined with 0 books
+PAGE 341 - https://www.amazon.com/gp/bestsellers/books/341/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 342 - https://www.amazon.com/gp/bestsellers/books/342/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 343 - Category undefined with 0 books
+PAGE 343 - https://www.amazon.com/gp/bestsellers/books/343/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 344 - https://www.amazon.com/gp/bestsellers/books/344/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 345 - Category undefined with 0 books
+PAGE 345 - https://www.amazon.com/gp/bestsellers/books/345/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 346 - Category  with 0 books
+PAGE 346 - https://www.amazon.com/gp/bestsellers/books/346/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 347 - https://www.amazon.com/gp/bestsellers/books/347/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 348 - Category undefined with 0 books
+PAGE 348 - https://www.amazon.com/gp/bestsellers/books/348/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 349 - Category  with 0 books
+PAGE 349 - https://www.amazon.com/gp/bestsellers/books/349/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 350 - Category  with 0 books
+PAGE 350 - https://www.amazon.com/gp/bestsellers/books/350/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 351 - Category undefined with 0 books
+PAGE 351 - https://www.amazon.com/gp/bestsellers/books/351/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 352 - https://www.amazon.com/gp/bestsellers/books/352/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 353 - Category undefined with 0 books
+PAGE 353 - https://www.amazon.com/gp/bestsellers/books/353/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 354 - Category undefined with 0 books
+PAGE 354 - https://www.amazon.com/gp/bestsellers/books/354/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 355 - Category undefined with 0 books
+PAGE 355 - https://www.amazon.com/gp/bestsellers/books/355/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 356 - Category undefined with 0 books
+PAGE 356 - https://www.amazon.com/gp/bestsellers/books/356/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 357 - Category undefined with 0 books
+PAGE 357 - https://www.amazon.com/gp/bestsellers/books/357/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 358 - Category undefined with 0 books
+PAGE 358 - https://www.amazon.com/gp/bestsellers/books/358/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 359 - Category undefined with 0 books
+PAGE 359 - https://www.amazon.com/gp/bestsellers/books/359/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 360 - Category undefined with 0 books
+PAGE 360 - https://www.amazon.com/gp/bestsellers/books/360/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 361 - https://www.amazon.com/gp/bestsellers/books/361/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 362 - https://www.amazon.com/gp/bestsellers/books/362/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 363 - Category undefined with 0 books
+PAGE 363 - https://www.amazon.com/gp/bestsellers/books/363/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 364 - https://www.amazon.com/gp/bestsellers/books/364/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 365 - Category undefined with 0 books
+PAGE 365 - https://www.amazon.com/gp/bestsellers/books/365/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 366 - https://www.amazon.com/gp/bestsellers/books/366/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 367 - https://www.amazon.com/gp/bestsellers/books/367/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 368 - https://www.amazon.com/gp/bestsellers/books/368/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 369 - Category undefined with 0 books
+PAGE 369 - https://www.amazon.com/gp/bestsellers/books/369/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 370 - https://www.amazon.com/gp/bestsellers/books/370/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 371 - Category undefined with 0 books
+PAGE 371 - https://www.amazon.com/gp/bestsellers/books/371/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 372 - Category undefined with 0 books
+PAGE 372 - https://www.amazon.com/gp/bestsellers/books/372/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 373 - Category undefined with 0 books
+PAGE 373 - https://www.amazon.com/gp/bestsellers/books/373/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 374 - Category undefined with 0 books
+PAGE 374 - https://www.amazon.com/gp/bestsellers/books/374/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 375 - Category undefined with 0 books
+PAGE 375 - https://www.amazon.com/gp/bestsellers/books/375/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 376 - Category undefined with 0 books
+PAGE 376 - https://www.amazon.com/gp/bestsellers/books/376/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 377 - Category undefined with 0 books
+PAGE 377 - https://www.amazon.com/gp/bestsellers/books/377/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 378 - Category undefined with 0 books
+PAGE 378 - https://www.amazon.com/gp/bestsellers/books/378/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 379 - Category undefined with 0 books
+PAGE 379 - https://www.amazon.com/gp/bestsellers/books/379/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 380 - Category  with 0 books
+PAGE 380 - https://www.amazon.com/gp/bestsellers/books/380/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 381 - Category undefined with 0 books
+PAGE 381 - https://www.amazon.com/gp/bestsellers/books/381/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 382 - Category  with 0 books
+PAGE 382 - https://www.amazon.com/gp/bestsellers/books/382/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 383 - Category undefined with 0 books
+PAGE 383 - https://www.amazon.com/gp/bestsellers/books/383/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 384 - Category undefined with 0 books
+PAGE 384 - https://www.amazon.com/gp/bestsellers/books/384/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 385 - Category undefined with 0 books
+PAGE 385 - https://www.amazon.com/gp/bestsellers/books/385/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 386 - Category undefined with 0 books
+PAGE 386 - https://www.amazon.com/gp/bestsellers/books/386/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 387 - Category undefined with 0 books
+PAGE 387 - https://www.amazon.com/gp/bestsellers/books/387/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 388 - Category undefined with 0 books
+PAGE 388 - https://www.amazon.com/gp/bestsellers/books/388/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 389 - Category undefined with 0 books
+PAGE 389 - https://www.amazon.com/gp/bestsellers/books/389/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 390 - Category undefined with 0 books
+PAGE 390 - https://www.amazon.com/gp/bestsellers/books/390/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 391 - https://www.amazon.com/gp/bestsellers/books/391/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 392 - Category undefined with 0 books
+PAGE 392 - https://www.amazon.com/gp/bestsellers/books/392/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 393 - Category  with 0 books
+PAGE 393 - https://www.amazon.com/gp/bestsellers/books/393/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 394 - https://www.amazon.com/gp/bestsellers/books/394/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 395 - Category undefined with 0 books
+PAGE 395 - https://www.amazon.com/gp/bestsellers/books/395/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 396 - Category  with 0 books
+PAGE 396 - https://www.amazon.com/gp/bestsellers/books/396/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 397 - Category undefined with 0 books
+PAGE 397 - https://www.amazon.com/gp/bestsellers/books/397/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 398 - Category  with 0 books
+PAGE 398 - https://www.amazon.com/gp/bestsellers/books/398/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 399 - Category undefined with 0 books
+PAGE 399 - https://www.amazon.com/gp/bestsellers/books/399/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 400 - https://www.amazon.com/gp/bestsellers/books/400/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 401 - Category undefined with 0 books
+PAGE 401 - https://www.amazon.com/gp/bestsellers/books/401/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 402 - Category  with 0 books
+PAGE 402 - https://www.amazon.com/gp/bestsellers/books/402/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 403 - Category undefined with 0 books
+PAGE 403 - https://www.amazon.com/gp/bestsellers/books/403/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 404 - Category  with 0 books
+PAGE 404 - https://www.amazon.com/gp/bestsellers/books/404/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 405 - Category undefined with 0 books
+PAGE 405 - https://www.amazon.com/gp/bestsellers/books/405/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 406 - Category undefined with 0 books
+PAGE 406 - https://www.amazon.com/gp/bestsellers/books/406/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 407 - Category undefined with 0 books
+PAGE 407 - https://www.amazon.com/gp/bestsellers/books/407/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 408 - Category undefined with 0 books
+PAGE 408 - https://www.amazon.com/gp/bestsellers/books/408/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 409 - https://www.amazon.com/gp/bestsellers/books/409/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 410 - Category undefined with 0 books
+PAGE 410 - https://www.amazon.com/gp/bestsellers/books/410/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 411 - Category undefined with 0 books
+PAGE 411 - https://www.amazon.com/gp/bestsellers/books/411/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 412 - https://www.amazon.com/gp/bestsellers/books/412/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 413 - https://www.amazon.com/gp/bestsellers/books/413/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 414 - https://www.amazon.com/gp/bestsellers/books/414/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 415 - Category undefined with 0 books
+PAGE 415 - https://www.amazon.com/gp/bestsellers/books/415/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 416 - Category undefined with 0 books
+PAGE 416 - https://www.amazon.com/gp/bestsellers/books/416/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 417 - Category undefined with 0 books
+PAGE 417 - https://www.amazon.com/gp/bestsellers/books/417/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 418 - Category undefined with 0 books
+PAGE 418 - https://www.amazon.com/gp/bestsellers/books/418/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 419 - https://www.amazon.com/gp/bestsellers/books/419/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 420 - https://www.amazon.com/gp/bestsellers/books/420/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 421 - Category undefined with 0 books
+PAGE 421 - https://www.amazon.com/gp/bestsellers/books/421/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 422 - Category undefined with 0 books
+PAGE 422 - https://www.amazon.com/gp/bestsellers/books/422/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 423 - Category undefined with 0 books
+PAGE 423 - https://www.amazon.com/gp/bestsellers/books/423/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 424 - Category undefined with 0 books
+PAGE 424 - https://www.amazon.com/gp/bestsellers/books/424/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 425 - Category undefined with 0 books
+PAGE 425 - https://www.amazon.com/gp/bestsellers/books/425/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 426 - Category undefined with 0 books
+PAGE 426 - https://www.amazon.com/gp/bestsellers/books/426/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 427 - Category undefined with 0 books
+PAGE 427 - https://www.amazon.com/gp/bestsellers/books/427/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 428 - Category undefined with 0 books
+PAGE 428 - https://www.amazon.com/gp/bestsellers/books/428/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 429 - https://www.amazon.com/gp/bestsellers/books/429/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 430 - https://www.amazon.com/gp/bestsellers/books/430/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 431 - Category undefined with 0 books
+PAGE 431 - https://www.amazon.com/gp/bestsellers/books/431/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 432 - Category undefined with 0 books
+PAGE 432 - https://www.amazon.com/gp/bestsellers/books/432/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 433 - Category undefined with 0 books
+PAGE 433 - https://www.amazon.com/gp/bestsellers/books/433/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 434 - https://www.amazon.com/gp/bestsellers/books/434/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 435 - Category undefined with 0 books
+PAGE 435 - https://www.amazon.com/gp/bestsellers/books/435/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 436 - Category undefined with 0 books
+PAGE 436 - https://www.amazon.com/gp/bestsellers/books/436/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 437 - Category undefined with 0 books
+PAGE 437 - https://www.amazon.com/gp/bestsellers/books/437/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 438 - Category undefined with 0 books
+PAGE 438 - https://www.amazon.com/gp/bestsellers/books/438/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 439 - https://www.amazon.com/gp/bestsellers/books/439/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 440 - Category undefined with 0 books
+PAGE 440 - https://www.amazon.com/gp/bestsellers/books/440/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 441 - Category undefined with 0 books
+PAGE 441 - https://www.amazon.com/gp/bestsellers/books/441/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 442 - Category undefined with 0 books
+PAGE 442 - https://www.amazon.com/gp/bestsellers/books/442/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 443 - Category undefined with 0 books
+PAGE 443 - https://www.amazon.com/gp/bestsellers/books/443/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 444 - Category undefined with 0 books
+PAGE 444 - https://www.amazon.com/gp/bestsellers/books/444/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 445 - Category undefined with 0 books
+PAGE 445 - https://www.amazon.com/gp/bestsellers/books/445/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 446 - Category undefined with 0 books
+PAGE 446 - https://www.amazon.com/gp/bestsellers/books/446/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 447 - https://www.amazon.com/gp/bestsellers/books/447/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 448 - Category undefined with 0 books
+PAGE 448 - https://www.amazon.com/gp/bestsellers/books/448/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 449 - https://www.amazon.com/gp/bestsellers/books/449/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 450 - Category undefined with 0 books
+PAGE 450 - https://www.amazon.com/gp/bestsellers/books/450/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 451 - https://www.amazon.com/gp/bestsellers/books/451/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 452 - Category undefined with 0 books
+PAGE 452 - https://www.amazon.com/gp/bestsellers/books/452/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 453 - https://www.amazon.com/gp/bestsellers/books/453/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 454 - https://www.amazon.com/gp/bestsellers/books/454/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 455 - Category undefined with 0 books
+PAGE 455 - https://www.amazon.com/gp/bestsellers/books/455/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 456 - https://www.amazon.com/gp/bestsellers/books/456/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 457 - Category undefined with 0 books
+PAGE 457 - https://www.amazon.com/gp/bestsellers/books/457/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 458 - Category undefined with 0 books
+PAGE 458 - https://www.amazon.com/gp/bestsellers/books/458/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 459 - Category undefined with 0 books
+PAGE 459 - https://www.amazon.com/gp/bestsellers/books/459/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 460 - Category undefined with 0 books
+PAGE 460 - https://www.amazon.com/gp/bestsellers/books/460/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 461 - https://www.amazon.com/gp/bestsellers/books/461/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 462 - Category undefined with 0 books
+PAGE 462 - https://www.amazon.com/gp/bestsellers/books/462/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 463 - https://www.amazon.com/gp/bestsellers/books/463/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 464 - Category undefined with 0 books
+PAGE 464 - https://www.amazon.com/gp/bestsellers/books/464/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 465 - https://www.amazon.com/gp/bestsellers/books/465/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 466 - Category undefined with 0 books
+PAGE 466 - https://www.amazon.com/gp/bestsellers/books/466/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 467 - https://www.amazon.com/gp/bestsellers/books/467/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 468 - Category undefined with 0 books
+PAGE 468 - https://www.amazon.com/gp/bestsellers/books/468/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 469 - Category undefined with 0 books
+PAGE 469 - https://www.amazon.com/gp/bestsellers/books/469/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 470 - https://www.amazon.com/gp/bestsellers/books/470/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 471 - Category undefined with 0 books
+PAGE 471 - https://www.amazon.com/gp/bestsellers/books/471/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 472 - https://www.amazon.com/gp/bestsellers/books/472/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 473 - https://www.amazon.com/gp/bestsellers/books/473/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 474 - Category undefined with 0 books
+PAGE 474 - https://www.amazon.com/gp/bestsellers/books/474/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 475 - Category undefined with 0 books
+PAGE 475 - https://www.amazon.com/gp/bestsellers/books/475/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 476 - Category undefined with 0 books
+PAGE 476 - https://www.amazon.com/gp/bestsellers/books/476/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 477 - https://www.amazon.com/gp/bestsellers/books/477/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 478 - Category undefined with 0 books
+PAGE 478 - https://www.amazon.com/gp/bestsellers/books/478/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 479 - Category undefined with 0 books
+PAGE 479 - https://www.amazon.com/gp/bestsellers/books/479/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 480 - Category  with 0 books
+PAGE 480 - https://www.amazon.com/gp/bestsellers/books/480/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 481 - Category undefined with 0 books
+PAGE 481 - https://www.amazon.com/gp/bestsellers/books/481/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 482 - Category undefined with 0 books
+PAGE 482 - https://www.amazon.com/gp/bestsellers/books/482/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 483 - Category undefined with 0 books
+PAGE 483 - https://www.amazon.com/gp/bestsellers/books/483/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 484 - Category undefined with 0 books
+PAGE 484 - https://www.amazon.com/gp/bestsellers/books/484/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 485 - Category undefined with 0 books
+PAGE 485 - https://www.amazon.com/gp/bestsellers/books/485/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 486 - https://www.amazon.com/gp/bestsellers/books/486/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 487 - Category undefined with 0 books
+PAGE 487 - https://www.amazon.com/gp/bestsellers/books/487/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 488 - Category undefined with 0 books
+PAGE 488 - https://www.amazon.com/gp/bestsellers/books/488/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 489 - Category undefined with 0 books
+PAGE 489 - https://www.amazon.com/gp/bestsellers/books/489/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 490 - Category undefined with 0 books
+PAGE 490 - https://www.amazon.com/gp/bestsellers/books/490/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 491 - Category undefined with 0 books
+PAGE 491 - https://www.amazon.com/gp/bestsellers/books/491/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 492 - Category undefined with 0 books
+PAGE 492 - https://www.amazon.com/gp/bestsellers/books/492/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 493 - Category undefined with 0 books
+PAGE 493 - https://www.amazon.com/gp/bestsellers/books/493/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 494 - https://www.amazon.com/gp/bestsellers/books/494/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 495 - Category undefined with 0 books
+PAGE 495 - https://www.amazon.com/gp/bestsellers/books/495/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 496 - Category undefined with 0 books
+PAGE 496 - https://www.amazon.com/gp/bestsellers/books/496/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 497 - Category undefined with 0 books
+PAGE 497 - https://www.amazon.com/gp/bestsellers/books/497/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 498 - Category undefined with 0 books
+PAGE 498 - https://www.amazon.com/gp/bestsellers/books/498/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 499 - https://www.amazon.com/gp/bestsellers/books/499/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 500 - Category undefined with 0 books
+PAGE 500 - https://www.amazon.com/gp/bestsellers/books/500/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 501 - Category undefined with 0 books
+PAGE 501 - https://www.amazon.com/gp/bestsellers/books/501/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 502 - Category undefined with 0 books
+PAGE 502 - https://www.amazon.com/gp/bestsellers/books/502/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 503 - https://www.amazon.com/gp/bestsellers/books/503/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 504 - Category undefined with 0 books
+PAGE 504 - https://www.amazon.com/gp/bestsellers/books/504/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 505 - Category undefined with 0 books
+PAGE 505 - https://www.amazon.com/gp/bestsellers/books/505/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 506 - https://www.amazon.com/gp/bestsellers/books/506/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 507 - https://www.amazon.com/gp/bestsellers/books/507/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 508 - Category undefined with 0 books
+PAGE 508 - https://www.amazon.com/gp/bestsellers/books/508/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 509 - Category undefined with 0 books
+PAGE 509 - https://www.amazon.com/gp/bestsellers/books/509/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 510 - Category undefined with 0 books
+PAGE 510 - https://www.amazon.com/gp/bestsellers/books/510/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 511 - Category undefined with 0 books
+PAGE 511 - https://www.amazon.com/gp/bestsellers/books/511/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 512 - Category undefined with 0 books
+PAGE 512 - https://www.amazon.com/gp/bestsellers/books/512/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 513 - Category undefined with 0 books
+PAGE 513 - https://www.amazon.com/gp/bestsellers/books/513/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 514 - Category undefined with 0 books
+PAGE 514 - https://www.amazon.com/gp/bestsellers/books/514/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 515 - Category undefined with 0 books
+PAGE 515 - https://www.amazon.com/gp/bestsellers/books/515/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 516 - Category undefined with 0 books
+PAGE 516 - https://www.amazon.com/gp/bestsellers/books/516/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 517 - https://www.amazon.com/gp/bestsellers/books/517/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 518 - Category undefined with 0 books
+PAGE 518 - https://www.amazon.com/gp/bestsellers/books/518/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 519 - Category undefined with 0 books
+PAGE 519 - https://www.amazon.com/gp/bestsellers/books/519/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 520 - https://www.amazon.com/gp/bestsellers/books/520/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 521 - Category undefined with 0 books
+PAGE 521 - https://www.amazon.com/gp/bestsellers/books/521/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 522 - https://www.amazon.com/gp/bestsellers/books/522/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 523 - Category undefined with 0 books
+PAGE 523 - https://www.amazon.com/gp/bestsellers/books/523/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 524 - Category undefined with 0 books
+PAGE 524 - https://www.amazon.com/gp/bestsellers/books/524/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 525 - https://www.amazon.com/gp/bestsellers/books/525/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 526 - Category undefined with 0 books
+PAGE 526 - https://www.amazon.com/gp/bestsellers/books/526/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 527 - Category undefined with 0 books
+PAGE 527 - https://www.amazon.com/gp/bestsellers/books/527/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 528 - Category undefined with 0 books
+PAGE 528 - https://www.amazon.com/gp/bestsellers/books/528/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 529 - https://www.amazon.com/gp/bestsellers/books/529/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 530 - Category undefined with 0 books
+PAGE 530 - https://www.amazon.com/gp/bestsellers/books/530/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 531 - Category undefined with 0 books
+PAGE 531 - https://www.amazon.com/gp/bestsellers/books/531/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 532 - Category undefined with 0 books
+PAGE 532 - https://www.amazon.com/gp/bestsellers/books/532/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 533 - https://www.amazon.com/gp/bestsellers/books/533/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 534 - Category undefined with 0 books
+PAGE 534 - https://www.amazon.com/gp/bestsellers/books/534/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 535 - Category  with 0 books
+PAGE 535 - https://www.amazon.com/gp/bestsellers/books/535/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 536 - Category undefined with 0 books
+PAGE 536 - https://www.amazon.com/gp/bestsellers/books/536/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 537 - Category undefined with 0 books
+PAGE 537 - https://www.amazon.com/gp/bestsellers/books/537/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 538 - Category undefined with 0 books
+PAGE 538 - https://www.amazon.com/gp/bestsellers/books/538/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 539 - Category undefined with 0 books
+PAGE 539 - https://www.amazon.com/gp/bestsellers/books/539/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 540 - Category undefined with 0 books
+PAGE 540 - https://www.amazon.com/gp/bestsellers/books/540/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 541 - Category undefined with 0 books
+PAGE 541 - https://www.amazon.com/gp/bestsellers/books/541/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 542 - https://www.amazon.com/gp/bestsellers/books/542/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 543 - https://www.amazon.com/gp/bestsellers/books/543/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 544 - Category undefined with 0 books
+PAGE 544 - https://www.amazon.com/gp/bestsellers/books/544/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 545 - Category undefined with 0 books
+PAGE 545 - https://www.amazon.com/gp/bestsellers/books/545/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 546 - Category undefined with 0 books
+PAGE 546 - https://www.amazon.com/gp/bestsellers/books/546/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 547 - https://www.amazon.com/gp/bestsellers/books/547/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 548 - https://www.amazon.com/gp/bestsellers/books/548/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 549 - https://www.amazon.com/gp/bestsellers/books/549/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 550 - https://www.amazon.com/gp/bestsellers/books/550/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 551 - Category  with 0 books
+PAGE 551 - https://www.amazon.com/gp/bestsellers/books/551/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 552 - Category undefined with 0 books
+PAGE 552 - https://www.amazon.com/gp/bestsellers/books/552/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 553 - Category undefined with 0 books
+PAGE 553 - https://www.amazon.com/gp/bestsellers/books/553/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 554 - Category undefined with 0 books
+PAGE 554 - https://www.amazon.com/gp/bestsellers/books/554/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 555 - Category undefined with 0 books
+PAGE 555 - https://www.amazon.com/gp/bestsellers/books/555/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 556 - https://www.amazon.com/gp/bestsellers/books/556/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 557 - https://www.amazon.com/gp/bestsellers/books/557/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 558 - https://www.amazon.com/gp/bestsellers/books/558/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 559 - Category undefined with 0 books
+PAGE 559 - https://www.amazon.com/gp/bestsellers/books/559/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 560 - Category undefined with 0 books
+PAGE 560 - https://www.amazon.com/gp/bestsellers/books/560/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 561 - Category undefined with 0 books
+PAGE 561 - https://www.amazon.com/gp/bestsellers/books/561/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 562 - Category undefined with 0 books
+PAGE 562 - https://www.amazon.com/gp/bestsellers/books/562/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 563 - https://www.amazon.com/gp/bestsellers/books/563/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 564 - https://www.amazon.com/gp/bestsellers/books/564/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 565 - Category undefined with 0 books
+PAGE 565 - https://www.amazon.com/gp/bestsellers/books/565/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 566 - Category undefined with 0 books
+PAGE 566 - https://www.amazon.com/gp/bestsellers/books/566/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 567 - Category undefined with 0 books
+PAGE 567 - https://www.amazon.com/gp/bestsellers/books/567/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 568 - Category undefined with 0 books
+PAGE 568 - https://www.amazon.com/gp/bestsellers/books/568/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 569 - Category undefined with 0 books
+PAGE 569 - https://www.amazon.com/gp/bestsellers/books/569/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 570 - https://www.amazon.com/gp/bestsellers/books/570/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 571 - Category undefined with 0 books
+PAGE 571 - https://www.amazon.com/gp/bestsellers/books/571/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 572 - Category undefined with 0 books
+PAGE 572 - https://www.amazon.com/gp/bestsellers/books/572/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 573 - https://www.amazon.com/gp/bestsellers/books/573/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 574 - Category undefined with 0 books
+PAGE 574 - https://www.amazon.com/gp/bestsellers/books/574/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 575 - Category undefined with 0 books
+PAGE 575 - https://www.amazon.com/gp/bestsellers/books/575/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 576 - Category undefined with 0 books
+PAGE 576 - https://www.amazon.com/gp/bestsellers/books/576/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 577 - Category undefined with 0 books
+PAGE 577 - https://www.amazon.com/gp/bestsellers/books/577/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 578 - https://www.amazon.com/gp/bestsellers/books/578/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 579 - Category undefined with 0 books
+PAGE 579 - https://www.amazon.com/gp/bestsellers/books/579/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 580 - Category undefined with 0 books
+PAGE 580 - https://www.amazon.com/gp/bestsellers/books/580/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 581 - Category undefined with 0 books
+PAGE 581 - https://www.amazon.com/gp/bestsellers/books/581/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 582 - https://www.amazon.com/gp/bestsellers/books/582/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 583 - Category undefined with 0 books
+PAGE 583 - https://www.amazon.com/gp/bestsellers/books/583/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 584 - Category undefined with 0 books
+PAGE 584 - https://www.amazon.com/gp/bestsellers/books/584/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 585 - Category undefined with 0 books
+PAGE 585 - https://www.amazon.com/gp/bestsellers/books/585/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 586 - Category undefined with 0 books
+PAGE 586 - https://www.amazon.com/gp/bestsellers/books/586/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 587 - Category undefined with 0 books
+PAGE 587 - https://www.amazon.com/gp/bestsellers/books/587/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 588 - Category undefined with 0 books
+PAGE 588 - https://www.amazon.com/gp/bestsellers/books/588/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 589 - Category undefined with 0 books
+PAGE 589 - https://www.amazon.com/gp/bestsellers/books/589/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 590 - Category undefined with 0 books
+PAGE 590 - https://www.amazon.com/gp/bestsellers/books/590/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 591 - Category undefined with 0 books
+PAGE 591 - https://www.amazon.com/gp/bestsellers/books/591/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 592 - Category undefined with 0 books
+PAGE 592 - https://www.amazon.com/gp/bestsellers/books/592/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 593 - Category undefined with 0 books
+PAGE 593 - https://www.amazon.com/gp/bestsellers/books/593/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 594 - Category undefined with 0 books
+PAGE 594 - https://www.amazon.com/gp/bestsellers/books/594/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 595 - https://www.amazon.com/gp/bestsellers/books/595/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 596 - https://www.amazon.com/gp/bestsellers/books/596/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 597 - https://www.amazon.com/gp/bestsellers/books/597/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 598 - https://www.amazon.com/gp/bestsellers/books/598/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 599 - https://www.amazon.com/gp/bestsellers/books/599/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 600 - Category undefined with 0 books
+PAGE 600 - https://www.amazon.com/gp/bestsellers/books/600/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 601 - Category undefined with 0 books
+PAGE 601 - https://www.amazon.com/gp/bestsellers/books/601/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 602 - Category undefined with 0 books
+PAGE 602 - https://www.amazon.com/gp/bestsellers/books/602/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 603 - https://www.amazon.com/gp/bestsellers/books/603/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 604 - https://www.amazon.com/gp/bestsellers/books/604/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 605 - Category undefined with 0 books
+PAGE 605 - https://www.amazon.com/gp/bestsellers/books/605/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 606 - Category undefined with 0 books
+PAGE 606 - https://www.amazon.com/gp/bestsellers/books/606/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 607 - Category undefined with 0 books
+PAGE 607 - https://www.amazon.com/gp/bestsellers/books/607/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 608 - https://www.amazon.com/gp/bestsellers/books/608/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 609 - Category undefined with 0 books
+PAGE 609 - https://www.amazon.com/gp/bestsellers/books/609/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 610 - Category undefined with 0 books
+PAGE 610 - https://www.amazon.com/gp/bestsellers/books/610/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 611 - https://www.amazon.com/gp/bestsellers/books/611/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 612 - https://www.amazon.com/gp/bestsellers/books/612/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 613 - Category undefined with 0 books
+PAGE 613 - https://www.amazon.com/gp/bestsellers/books/613/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 614 - Category undefined with 0 books
+PAGE 614 - https://www.amazon.com/gp/bestsellers/books/614/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 615 - Category  with 0 books
+PAGE 615 - https://www.amazon.com/gp/bestsellers/books/615/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 616 - Category undefined with 0 books
+PAGE 616 - https://www.amazon.com/gp/bestsellers/books/616/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 617 - Category undefined with 0 books
+PAGE 617 - https://www.amazon.com/gp/bestsellers/books/617/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 618 - Category undefined with 0 books
+PAGE 618 - https://www.amazon.com/gp/bestsellers/books/618/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 619 - Category undefined with 0 books
+PAGE 619 - https://www.amazon.com/gp/bestsellers/books/619/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 620 - Category undefined with 0 books
+PAGE 620 - https://www.amazon.com/gp/bestsellers/books/620/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 621 - Category undefined with 0 books
+PAGE 621 - https://www.amazon.com/gp/bestsellers/books/621/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 622 - https://www.amazon.com/gp/bestsellers/books/622/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 623 - Category  with 0 books
+PAGE 623 - https://www.amazon.com/gp/bestsellers/books/623/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 624 - Category undefined with 0 books
+PAGE 624 - https://www.amazon.com/gp/bestsellers/books/624/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 625 - Category undefined with 0 books
+PAGE 625 - https://www.amazon.com/gp/bestsellers/books/625/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 626 - Category undefined with 0 books
+PAGE 626 - https://www.amazon.com/gp/bestsellers/books/626/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 627 - Category undefined with 0 books
+PAGE 627 - https://www.amazon.com/gp/bestsellers/books/627/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 628 - Category  with 0 books
+PAGE 628 - https://www.amazon.com/gp/bestsellers/books/628/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 629 - https://www.amazon.com/gp/bestsellers/books/629/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 630 - https://www.amazon.com/gp/bestsellers/books/630/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 631 - Category  with 0 books
+PAGE 631 - https://www.amazon.com/gp/bestsellers/books/631/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 632 - https://www.amazon.com/gp/bestsellers/books/632/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 633 - https://www.amazon.com/gp/bestsellers/books/633/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 634 - Category undefined with 0 books
+PAGE 634 - https://www.amazon.com/gp/bestsellers/books/634/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 635 - Category undefined with 0 books
+PAGE 635 - https://www.amazon.com/gp/bestsellers/books/635/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 636 - Category undefined with 0 books
+PAGE 636 - https://www.amazon.com/gp/bestsellers/books/636/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 637 - https://www.amazon.com/gp/bestsellers/books/637/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 638 - https://www.amazon.com/gp/bestsellers/books/638/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 639 - https://www.amazon.com/gp/bestsellers/books/639/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 640 - https://www.amazon.com/gp/bestsellers/books/640/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 641 - https://www.amazon.com/gp/bestsellers/books/641/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 642 - https://www.amazon.com/gp/bestsellers/books/642/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 643 - Category  with 0 books
+PAGE 643 - https://www.amazon.com/gp/bestsellers/books/643/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 644 - Category undefined with 0 books
+PAGE 644 - https://www.amazon.com/gp/bestsellers/books/644/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 645 - https://www.amazon.com/gp/bestsellers/books/645/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 646 - https://www.amazon.com/gp/bestsellers/books/646/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 647 - Category undefined with 0 books
+PAGE 647 - https://www.amazon.com/gp/bestsellers/books/647/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 648 - Category undefined with 0 books
+PAGE 648 - https://www.amazon.com/gp/bestsellers/books/648/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 649 - Category undefined with 0 books
+PAGE 649 - https://www.amazon.com/gp/bestsellers/books/649/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 650 - Category undefined with 0 books
+PAGE 650 - https://www.amazon.com/gp/bestsellers/books/650/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 651 - https://www.amazon.com/gp/bestsellers/books/651/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 652 - Category undefined with 0 books
+PAGE 652 - https://www.amazon.com/gp/bestsellers/books/652/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 653 - https://www.amazon.com/gp/bestsellers/books/653/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 654 - Category  with 0 books
+PAGE 654 - https://www.amazon.com/gp/bestsellers/books/654/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 655 - https://www.amazon.com/gp/bestsellers/books/655/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 656 - Category  with 0 books
+PAGE 656 - https://www.amazon.com/gp/bestsellers/books/656/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 657 - Category undefined with 0 books
+PAGE 657 - https://www.amazon.com/gp/bestsellers/books/657/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 658 - https://www.amazon.com/gp/bestsellers/books/658/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 659 - https://www.amazon.com/gp/bestsellers/books/659/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 660 - https://www.amazon.com/gp/bestsellers/books/660/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 661 - https://www.amazon.com/gp/bestsellers/books/661/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 662 - Category undefined with 0 books
+PAGE 662 - https://www.amazon.com/gp/bestsellers/books/662/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 663 - https://www.amazon.com/gp/bestsellers/books/663/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 664 - https://www.amazon.com/gp/bestsellers/books/664/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 665 - https://www.amazon.com/gp/bestsellers/books/665/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 666 - https://www.amazon.com/gp/bestsellers/books/666/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 667 - Category undefined with 0 books
+PAGE 667 - https://www.amazon.com/gp/bestsellers/books/667/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 668 - Category  with 0 books
+PAGE 668 - https://www.amazon.com/gp/bestsellers/books/668/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 669 - https://www.amazon.com/gp/bestsellers/books/669/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 670 - Category  with 0 books
+PAGE 670 - https://www.amazon.com/gp/bestsellers/books/670/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 671 - https://www.amazon.com/gp/bestsellers/books/671/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 672 - https://www.amazon.com/gp/bestsellers/books/672/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 673 - Category undefined with 0 books
+PAGE 673 - https://www.amazon.com/gp/bestsellers/books/673/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 674 - https://www.amazon.com/gp/bestsellers/books/674/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 675 - https://www.amazon.com/gp/bestsellers/books/675/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 676 - https://www.amazon.com/gp/bestsellers/books/676/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 677 - https://www.amazon.com/gp/bestsellers/books/677/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 678 - Category undefined with 0 books
+PAGE 678 - https://www.amazon.com/gp/bestsellers/books/678/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 679 - https://www.amazon.com/gp/bestsellers/books/679/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 680 - https://www.amazon.com/gp/bestsellers/books/680/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 681 - https://www.amazon.com/gp/bestsellers/books/681/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 682 - https://www.amazon.com/gp/bestsellers/books/682/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 683 - Category undefined with 0 books
+PAGE 683 - https://www.amazon.com/gp/bestsellers/books/683/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 684 - https://www.amazon.com/gp/bestsellers/books/684/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 685 - Category undefined with 0 books
+PAGE 685 - https://www.amazon.com/gp/bestsellers/books/685/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 686 - Category undefined with 0 books
+PAGE 686 - https://www.amazon.com/gp/bestsellers/books/686/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 687 - Category undefined with 0 books
+PAGE 687 - https://www.amazon.com/gp/bestsellers/books/687/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 688 - https://www.amazon.com/gp/bestsellers/books/688/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 689 - Category undefined with 0 books
+PAGE 689 - https://www.amazon.com/gp/bestsellers/books/689/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 690 - Category undefined with 0 books
+PAGE 690 - https://www.amazon.com/gp/bestsellers/books/690/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 691 - Category  with 0 books
+PAGE 691 - https://www.amazon.com/gp/bestsellers/books/691/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 692 - Category undefined with 0 books
+PAGE 692 - https://www.amazon.com/gp/bestsellers/books/692/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 1 - Category Arts & Photography with 30 books
+Processing page 2 - Category Biographies with 30 books
+Processing page 4 - Category Children's Books with 30 books
+Processing page 8 - Category  with 0 books
+PAGE 8 - https://www.amazon.com/gp/bestsellers/books/8/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 10 - https://www.amazon.com/gp/bestsellers/books/10/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 11 - Category undefined with 0 books
+PAGE 11 - https://www.amazon.com/gp/bestsellers/books/11/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 12 - Category undefined with 0 books
+PAGE 12 - https://www.amazon.com/gp/bestsellers/books/12/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 13 - Category undefined with 0 books
+PAGE 13 - https://www.amazon.com/gp/bestsellers/books/13/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 14 - Category  with 0 books
+PAGE 14 - https://www.amazon.com/gp/bestsellers/books/14/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 15 - Category undefined with 0 books
+PAGE 15 - https://www.amazon.com/gp/bestsellers/books/15/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 16 - Category Country with 30 books
+Processing page 17 - Category Literature & Fiction with 30 books
+Processing page 18 - Category Mystery, Thriller & Suspense with 30 books
+Processing page 19 - Category undefined with 0 books
+PAGE 19 - https://www.amazon.com/gp/bestsellers/books/19/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 20 - https://www.amazon.com/gp/bestsellers/books/20/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 21 - Category Reference with 30 books
+Processing page 24 - Category undefined with 0 books
+PAGE 24 - https://www.amazon.com/gp/bestsellers/books/24/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 26 - Category Sports & Outdoors with 30 books
+Processing page 28 - Category Teen & Young Adult Books with 30 books
+Processing page 29 - Category  with 0 books
+PAGE 29 - https://www.amazon.com/gp/bestsellers/books/29/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 33 - https://www.amazon.com/gp/bestsellers/books/33/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 36 - Category New Age with 30 books
+Processing page 40 - Category Rock with 30 books
+Processing page 41 - Category undefined with 0 books
+PAGE 41 - https://www.amazon.com/gp/bestsellers/books/41/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 42 - Category Soundtracks with 30 books
+Processing page 43 - Category undefined with 0 books
+PAGE 43 - https://www.amazon.com/gp/bestsellers/books/43/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 44 - Category undefined with 0 books
+PAGE 44 - https://www.amazon.com/gp/bestsellers/books/44/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 46 - Category undefined with 0 books
+PAGE 46 - https://www.amazon.com/gp/bestsellers/books/46/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 47 - https://www.amazon.com/gp/bestsellers/books/47/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 50 - Category  with 0 books
+PAGE 50 - https://www.amazon.com/gp/bestsellers/books/50/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 51 - Category undefined with 0 books
+PAGE 51 - https://www.amazon.com/gp/bestsellers/books/51/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 52 - Category undefined with 0 books
+PAGE 52 - https://www.amazon.com/gp/bestsellers/books/52/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 54 - Category undefined with 0 books
+PAGE 54 - https://www.amazon.com/gp/bestsellers/books/54/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 55 - Category undefined with 0 books
+PAGE 55 - https://www.amazon.com/gp/bestsellers/books/55/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 56 - Category undefined with 0 books
+PAGE 56 - https://www.amazon.com/gp/bestsellers/books/56/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 57 - Category undefined with 0 books
+PAGE 57 - https://www.amazon.com/gp/bestsellers/books/57/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 58 - Category undefined with 0 books
+PAGE 58 - https://www.amazon.com/gp/bestsellers/books/58/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 59 - https://www.amazon.com/gp/bestsellers/books/59/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 60 - Category undefined with 0 books
+PAGE 60 - https://www.amazon.com/gp/bestsellers/books/60/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 61 - Category undefined with 0 books
+PAGE 61 - https://www.amazon.com/gp/bestsellers/books/61/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 62 - Category undefined with 0 books
+PAGE 62 - https://www.amazon.com/gp/bestsellers/books/62/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 63 - Category undefined with 0 books
+PAGE 63 - https://www.amazon.com/gp/bestsellers/books/63/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 64 - Category undefined with 0 books
+PAGE 64 - https://www.amazon.com/gp/bestsellers/books/64/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 65 - Category undefined with 0 books
+PAGE 65 - https://www.amazon.com/gp/bestsellers/books/65/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 66 - Category  with 0 books
+PAGE 66 - https://www.amazon.com/gp/bestsellers/books/66/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 67 - Category undefined with 0 books
+PAGE 67 - https://www.amazon.com/gp/bestsellers/books/67/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 68 - Category undefined with 0 books
+PAGE 68 - https://www.amazon.com/gp/bestsellers/books/68/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 69 - Category undefined with 0 books
+PAGE 69 - https://www.amazon.com/gp/bestsellers/books/69/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 70 - Category undefined with 0 books
+PAGE 70 - https://www.amazon.com/gp/bestsellers/books/70/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 71 - Category undefined with 0 books
+PAGE 71 - https://www.amazon.com/gp/bestsellers/books/71/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 72 - Category undefined with 0 books
+PAGE 72 - https://www.amazon.com/gp/bestsellers/books/72/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 73 - https://www.amazon.com/gp/bestsellers/books/73/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 74 - Category undefined with 0 books
+PAGE 74 - https://www.amazon.com/gp/bestsellers/books/74/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 76 - Category undefined with 0 books
+PAGE 76 - https://www.amazon.com/gp/bestsellers/books/76/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 77 - Category undefined with 0 books
+PAGE 77 - https://www.amazon.com/gp/bestsellers/books/77/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 78 - Category undefined with 0 books
+PAGE 78 - https://www.amazon.com/gp/bestsellers/books/78/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 79 - Category undefined with 0 books
+PAGE 79 - https://www.amazon.com/gp/bestsellers/books/79/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 80 - https://www.amazon.com/gp/bestsellers/books/80/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 81 - Category undefined with 0 books
+PAGE 81 - https://www.amazon.com/gp/bestsellers/books/81/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 82 - Category undefined with 0 books
+PAGE 82 - https://www.amazon.com/gp/bestsellers/books/82/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 83 - Category undefined with 0 books
+PAGE 83 - https://www.amazon.com/gp/bestsellers/books/83/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 84 - Category Opera & Vocal with 30 books
+Processing page 88 - Category undefined with 0 books
+PAGE 88 - https://www.amazon.com/gp/bestsellers/books/88/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 89 - Category undefined with 0 books
+PAGE 89 - https://www.amazon.com/gp/bestsellers/books/89/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 90 - Category undefined with 0 books
+PAGE 90 - https://www.amazon.com/gp/bestsellers/books/90/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 91 - https://www.amazon.com/gp/bestsellers/books/91/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 92 - Category undefined with 0 books
+PAGE 92 - https://www.amazon.com/gp/bestsellers/books/92/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 93 - Category undefined with 0 books
+PAGE 93 - https://www.amazon.com/gp/bestsellers/books/93/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 94 - Category undefined with 0 books
+PAGE 94 - https://www.amazon.com/gp/bestsellers/books/94/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 95 - https://www.amazon.com/gp/bestsellers/books/95/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 96 - https://www.amazon.com/gp/bestsellers/books/96/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 97 - Category undefined with 0 books
+PAGE 97 - https://www.amazon.com/gp/bestsellers/books/97/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 98 - Category undefined with 0 books
+PAGE 98 - https://www.amazon.com/gp/bestsellers/books/98/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 99 - Category undefined with 0 books
+PAGE 99 - https://www.amazon.com/gp/bestsellers/books/99/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 100 - Category undefined with 0 books
+PAGE 100 - https://www.amazon.com/gp/bestsellers/books/100/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 101 - https://www.amazon.com/gp/bestsellers/books/101/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 102 - https://www.amazon.com/gp/bestsellers/books/102/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 103 - Category undefined with 0 books
+PAGE 103 - https://www.amazon.com/gp/bestsellers/books/103/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 104 - Category undefined with 0 books
+PAGE 104 - https://www.amazon.com/gp/bestsellers/books/104/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 105 - https://www.amazon.com/gp/bestsellers/books/105/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 106 - Category undefined with 0 books
+PAGE 106 - https://www.amazon.com/gp/bestsellers/books/106/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 107 - Category undefined with 0 books
+PAGE 107 - https://www.amazon.com/gp/bestsellers/books/107/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 108 - https://www.amazon.com/gp/bestsellers/books/108/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 109 - Category undefined with 0 books
+PAGE 109 - https://www.amazon.com/gp/bestsellers/books/109/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 110 - https://www.amazon.com/gp/bestsellers/books/110/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 111 - Category undefined with 0 books
+PAGE 111 - https://www.amazon.com/gp/bestsellers/books/111/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 112 - https://www.amazon.com/gp/bestsellers/books/112/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 113 - Category  with 0 books
+PAGE 113 - https://www.amazon.com/gp/bestsellers/books/113/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 114 - https://www.amazon.com/gp/bestsellers/books/114/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 115 - Category undefined with 0 books
+PAGE 115 - https://www.amazon.com/gp/bestsellers/books/115/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 116 - https://www.amazon.com/gp/bestsellers/books/116/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 117 - Category undefined with 0 books
+PAGE 117 - https://www.amazon.com/gp/bestsellers/books/117/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 118 - Category undefined with 0 books
+PAGE 118 - https://www.amazon.com/gp/bestsellers/books/118/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 119 - https://www.amazon.com/gp/bestsellers/books/119/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 120 - Category undefined with 0 books
+PAGE 120 - https://www.amazon.com/gp/bestsellers/books/120/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 121 - Category  with 0 books
+PAGE 121 - https://www.amazon.com/gp/bestsellers/books/121/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 122 - Category undefined with 0 books
+PAGE 122 - https://www.amazon.com/gp/bestsellers/books/122/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 123 - Category undefined with 0 books
+PAGE 123 - https://www.amazon.com/gp/bestsellers/books/123/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 124 - https://www.amazon.com/gp/bestsellers/books/124/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 125 - Category undefined with 0 books
+PAGE 125 - https://www.amazon.com/gp/bestsellers/books/125/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 130 - https://www.amazon.com/gp/bestsellers/books/130/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 132 - https://www.amazon.com/gp/bestsellers/books/132/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 134 - Category undefined with 0 books
+PAGE 134 - https://www.amazon.com/gp/bestsellers/books/134/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 137 - Category undefined with 0 books
+PAGE 137 - https://www.amazon.com/gp/bestsellers/books/137/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 138 - Category undefined with 0 books
+PAGE 138 - https://www.amazon.com/gp/bestsellers/books/138/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 140 - Category undefined with 0 books
+PAGE 140 - https://www.amazon.com/gp/bestsellers/books/140/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 142 - Category undefined with 0 books
+PAGE 142 - https://www.amazon.com/gp/bestsellers/books/142/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 143 - Category undefined with 0 books
+PAGE 143 - https://www.amazon.com/gp/bestsellers/books/143/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 145 - Category undefined with 0 books
+PAGE 145 - https://www.amazon.com/gp/bestsellers/books/145/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 146 - Category undefined with 0 books
+PAGE 146 - https://www.amazon.com/gp/bestsellers/books/146/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 147 - https://www.amazon.com/gp/bestsellers/books/147/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 148 - Category undefined with 0 books
+PAGE 148 - https://www.amazon.com/gp/bestsellers/books/148/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 149 - Category undefined with 0 books
+PAGE 149 - https://www.amazon.com/gp/bestsellers/books/149/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 150 - https://www.amazon.com/gp/bestsellers/books/150/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 151 - Category undefined with 0 books
+PAGE 151 - https://www.amazon.com/gp/bestsellers/books/151/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 152 - Category undefined with 0 books
+PAGE 152 - https://www.amazon.com/gp/bestsellers/books/152/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 153 - Category undefined with 0 books
+PAGE 153 - https://www.amazon.com/gp/bestsellers/books/153/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 154 - Category undefined with 0 books
+PAGE 154 - https://www.amazon.com/gp/bestsellers/books/154/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 155 - Category undefined with 0 books
+PAGE 155 - https://www.amazon.com/gp/bestsellers/books/155/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 156 - https://www.amazon.com/gp/bestsellers/books/156/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 157 - https://www.amazon.com/gp/bestsellers/books/157/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 158 - Category undefined with 0 books
+PAGE 158 - https://www.amazon.com/gp/bestsellers/books/158/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 159 - https://www.amazon.com/gp/bestsellers/books/159/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 160 - Category undefined with 0 books
+PAGE 160 - https://www.amazon.com/gp/bestsellers/books/160/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 161 - Category undefined with 0 books
+PAGE 161 - https://www.amazon.com/gp/bestsellers/books/161/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 162 - Category undefined with 0 books
+PAGE 162 - https://www.amazon.com/gp/bestsellers/books/162/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 163 - https://www.amazon.com/gp/bestsellers/books/163/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 164 - Category undefined with 0 books
+PAGE 164 - https://www.amazon.com/gp/bestsellers/books/164/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 165 - Category undefined with 0 books
+PAGE 165 - https://www.amazon.com/gp/bestsellers/books/165/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 166 - https://www.amazon.com/gp/bestsellers/books/166/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 167 - Category undefined with 0 books
+PAGE 167 - https://www.amazon.com/gp/bestsellers/books/167/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 168 - Category undefined with 0 books
+PAGE 168 - https://www.amazon.com/gp/bestsellers/books/168/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 169 - https://www.amazon.com/gp/bestsellers/books/169/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 170 - https://www.amazon.com/gp/bestsellers/books/170/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 171 - Category undefined with 0 books
+PAGE 171 - https://www.amazon.com/gp/bestsellers/books/171/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 172 - Category undefined with 0 books
+PAGE 172 - https://www.amazon.com/gp/bestsellers/books/172/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 173 - https://www.amazon.com/gp/bestsellers/books/173/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 174 - https://www.amazon.com/gp/bestsellers/books/174/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 175 - https://www.amazon.com/gp/bestsellers/books/175/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 176 - Category undefined with 0 books
+PAGE 176 - https://www.amazon.com/gp/bestsellers/books/176/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 177 - Category undefined with 0 books
+PAGE 177 - https://www.amazon.com/gp/bestsellers/books/177/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 178 - Category undefined with 0 books
+PAGE 178 - https://www.amazon.com/gp/bestsellers/books/178/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 179 - Category undefined with 0 books
+PAGE 179 - https://www.amazon.com/gp/bestsellers/books/179/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 180 - Category undefined with 0 books
+PAGE 180 - https://www.amazon.com/gp/bestsellers/books/180/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 181 - Category undefined with 0 books
+PAGE 181 - https://www.amazon.com/gp/bestsellers/books/181/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 182 - Category  with 0 books
+PAGE 182 - https://www.amazon.com/gp/bestsellers/books/182/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 183 - Category undefined with 0 books
+PAGE 183 - https://www.amazon.com/gp/bestsellers/books/183/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 184 - Category undefined with 0 books
+PAGE 184 - https://www.amazon.com/gp/bestsellers/books/184/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 185 - Category undefined with 0 books
+PAGE 185 - https://www.amazon.com/gp/bestsellers/books/185/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 186 - https://www.amazon.com/gp/bestsellers/books/186/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 187 - Category undefined with 0 books
+PAGE 187 - https://www.amazon.com/gp/bestsellers/books/187/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 188 - Category undefined with 0 books
+PAGE 188 - https://www.amazon.com/gp/bestsellers/books/188/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 189 - https://www.amazon.com/gp/bestsellers/books/189/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 190 - Category undefined with 0 books
+PAGE 190 - https://www.amazon.com/gp/bestsellers/books/190/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 191 - https://www.amazon.com/gp/bestsellers/books/191/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 192 - Category undefined with 0 books
+PAGE 192 - https://www.amazon.com/gp/bestsellers/books/192/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 193 - Category undefined with 0 books
+PAGE 193 - https://www.amazon.com/gp/bestsellers/books/193/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 194 - https://www.amazon.com/gp/bestsellers/books/194/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 195 - Category undefined with 0 books
+PAGE 195 - https://www.amazon.com/gp/bestsellers/books/195/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 196 - https://www.amazon.com/gp/bestsellers/books/196/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 197 - https://www.amazon.com/gp/bestsellers/books/197/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 198 - Category  with 0 books
+PAGE 198 - https://www.amazon.com/gp/bestsellers/books/198/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 199 - Category undefined with 0 books
+PAGE 199 - https://www.amazon.com/gp/bestsellers/books/199/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 200 - https://www.amazon.com/gp/bestsellers/books/200/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 201 - https://www.amazon.com/gp/bestsellers/books/201/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 202 - https://www.amazon.com/gp/bestsellers/books/202/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 203 - Category undefined with 0 books
+PAGE 203 - https://www.amazon.com/gp/bestsellers/books/203/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 204 - Category undefined with 0 books
+PAGE 204 - https://www.amazon.com/gp/bestsellers/books/204/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 205 - https://www.amazon.com/gp/bestsellers/books/205/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 206 - Category undefined with 0 books
+PAGE 206 - https://www.amazon.com/gp/bestsellers/books/206/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 207 - Category undefined with 0 books
+PAGE 207 - https://www.amazon.com/gp/bestsellers/books/207/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 208 - Category  with 0 books
+PAGE 208 - https://www.amazon.com/gp/bestsellers/books/208/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 209 - Category undefined with 0 books
+PAGE 209 - https://www.amazon.com/gp/bestsellers/books/209/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 210 - Category undefined with 0 books
+PAGE 210 - https://www.amazon.com/gp/bestsellers/books/210/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 211 - https://www.amazon.com/gp/bestsellers/books/211/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 212 - Category undefined with 0 books
+PAGE 212 - https://www.amazon.com/gp/bestsellers/books/212/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 213 - Category  with 0 books
+PAGE 213 - https://www.amazon.com/gp/bestsellers/books/213/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 214 - Category undefined with 0 books
+PAGE 214 - https://www.amazon.com/gp/bestsellers/books/214/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 215 - Category undefined with 0 books
+PAGE 215 - https://www.amazon.com/gp/bestsellers/books/215/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 216 - Category undefined with 0 books
+PAGE 216 - https://www.amazon.com/gp/bestsellers/books/216/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 217 - Category undefined with 0 books
+PAGE 217 - https://www.amazon.com/gp/bestsellers/books/217/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 218 - https://www.amazon.com/gp/bestsellers/books/218/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 219 - Category undefined with 0 books
+PAGE 219 - https://www.amazon.com/gp/bestsellers/books/219/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 220 - Category undefined with 0 books
+PAGE 220 - https://www.amazon.com/gp/bestsellers/books/220/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 221 - Category undefined with 0 books
+PAGE 221 - https://www.amazon.com/gp/bestsellers/books/221/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 222 - Category undefined with 0 books
+PAGE 222 - https://www.amazon.com/gp/bestsellers/books/222/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 223 - https://www.amazon.com/gp/bestsellers/books/223/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 224 - https://www.amazon.com/gp/bestsellers/books/224/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 225 - https://www.amazon.com/gp/bestsellers/books/225/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 226 - Category undefined with 0 books
+PAGE 226 - https://www.amazon.com/gp/bestsellers/books/226/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 227 - Category undefined with 0 books
+PAGE 227 - https://www.amazon.com/gp/bestsellers/books/227/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 228 - Category undefined with 0 books
+PAGE 228 - https://www.amazon.com/gp/bestsellers/books/228/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 229 - Category undefined with 0 books
+PAGE 229 - https://www.amazon.com/gp/bestsellers/books/229/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 230 - Category undefined with 0 books
+PAGE 230 - https://www.amazon.com/gp/bestsellers/books/230/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 231 - Category undefined with 0 books
+PAGE 231 - https://www.amazon.com/gp/bestsellers/books/231/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 232 - https://www.amazon.com/gp/bestsellers/books/232/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 233 - https://www.amazon.com/gp/bestsellers/books/233/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 234 - https://www.amazon.com/gp/bestsellers/books/234/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 235 - Category undefined with 0 books
+PAGE 235 - https://www.amazon.com/gp/bestsellers/books/235/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 236 - Category undefined with 0 books
+PAGE 236 - https://www.amazon.com/gp/bestsellers/books/236/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 237 - Category undefined with 0 books
+PAGE 237 - https://www.amazon.com/gp/bestsellers/books/237/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 238 - Category undefined with 0 books
+PAGE 238 - https://www.amazon.com/gp/bestsellers/books/238/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 239 - Category undefined with 0 books
+PAGE 239 - https://www.amazon.com/gp/bestsellers/books/239/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 240 - https://www.amazon.com/gp/bestsellers/books/240/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 241 - https://www.amazon.com/gp/bestsellers/books/241/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 242 - Category undefined with 0 books
+PAGE 242 - https://www.amazon.com/gp/bestsellers/books/242/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 243 - Category undefined with 0 books
+PAGE 243 - https://www.amazon.com/gp/bestsellers/books/243/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 244 - Category undefined with 0 books
+PAGE 244 - https://www.amazon.com/gp/bestsellers/books/244/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 245 - Category undefined with 0 books
+PAGE 245 - https://www.amazon.com/gp/bestsellers/books/245/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 246 - https://www.amazon.com/gp/bestsellers/books/246/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 247 - Category undefined with 0 books
+PAGE 247 - https://www.amazon.com/gp/bestsellers/books/247/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 248 - Category undefined with 0 books
+PAGE 248 - https://www.amazon.com/gp/bestsellers/books/248/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 249 - https://www.amazon.com/gp/bestsellers/books/249/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 250 - Category undefined with 0 books
+PAGE 250 - https://www.amazon.com/gp/bestsellers/books/250/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 251 - https://www.amazon.com/gp/bestsellers/books/251/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 252 - https://www.amazon.com/gp/bestsellers/books/252/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 253 - Category undefined with 0 books
+PAGE 253 - https://www.amazon.com/gp/bestsellers/books/253/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 254 - Category  with 0 books
+PAGE 254 - https://www.amazon.com/gp/bestsellers/books/254/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 255 - Category undefined with 0 books
+PAGE 255 - https://www.amazon.com/gp/bestsellers/books/255/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 256 - Category undefined with 0 books
+PAGE 256 - https://www.amazon.com/gp/bestsellers/books/256/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 257 - Category undefined with 0 books
+PAGE 257 - https://www.amazon.com/gp/bestsellers/books/257/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 258 - Category undefined with 0 books
+PAGE 258 - https://www.amazon.com/gp/bestsellers/books/258/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 259 - https://www.amazon.com/gp/bestsellers/books/259/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 260 - Category undefined with 0 books
+PAGE 260 - https://www.amazon.com/gp/bestsellers/books/260/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 261 - https://www.amazon.com/gp/bestsellers/books/261/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 262 - https://www.amazon.com/gp/bestsellers/books/262/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 263 - https://www.amazon.com/gp/bestsellers/books/263/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 264 - Category undefined with 0 books
+PAGE 264 - https://www.amazon.com/gp/bestsellers/books/264/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 265 - https://www.amazon.com/gp/bestsellers/books/265/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 266 - https://www.amazon.com/gp/bestsellers/books/266/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 267 - https://www.amazon.com/gp/bestsellers/books/267/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 268 - https://www.amazon.com/gp/bestsellers/books/268/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 269 - https://www.amazon.com/gp/bestsellers/books/269/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 270 - Category undefined with 0 books
+PAGE 270 - https://www.amazon.com/gp/bestsellers/books/270/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 271 - Category undefined with 0 books
+PAGE 271 - https://www.amazon.com/gp/bestsellers/books/271/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 272 - Category undefined with 0 books
+PAGE 272 - https://www.amazon.com/gp/bestsellers/books/272/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 273 - Category undefined with 0 books
+PAGE 273 - https://www.amazon.com/gp/bestsellers/books/273/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 274 - Category undefined with 0 books
+PAGE 274 - https://www.amazon.com/gp/bestsellers/books/274/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 275 - Category undefined with 0 books
+PAGE 275 - https://www.amazon.com/gp/bestsellers/books/275/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 276 - https://www.amazon.com/gp/bestsellers/books/276/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 277 - https://www.amazon.com/gp/bestsellers/books/277/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 278 - https://www.amazon.com/gp/bestsellers/books/278/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 279 - Category undefined with 0 books
+PAGE 279 - https://www.amazon.com/gp/bestsellers/books/279/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 280 - https://www.amazon.com/gp/bestsellers/books/280/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 281 - Category undefined with 0 books
+PAGE 281 - https://www.amazon.com/gp/bestsellers/books/281/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 282 - Category undefined with 0 books
+PAGE 282 - https://www.amazon.com/gp/bestsellers/books/282/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 283 - Category undefined with 0 books
+PAGE 283 - https://www.amazon.com/gp/bestsellers/books/283/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 284 - Category undefined with 0 books
+PAGE 284 - https://www.amazon.com/gp/bestsellers/books/284/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 285 - https://www.amazon.com/gp/bestsellers/books/285/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 286 - https://www.amazon.com/gp/bestsellers/books/286/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 287 - https://www.amazon.com/gp/bestsellers/books/287/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 288 - https://www.amazon.com/gp/bestsellers/books/288/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 289 - https://www.amazon.com/gp/bestsellers/books/289/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 290 - Category undefined with 0 books
+PAGE 290 - https://www.amazon.com/gp/bestsellers/books/290/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 291 - https://www.amazon.com/gp/bestsellers/books/291/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 292 - https://www.amazon.com/gp/bestsellers/books/292/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 293 - Category undefined with 0 books
+PAGE 293 - https://www.amazon.com/gp/bestsellers/books/293/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 294 - Category undefined with 0 books
+PAGE 294 - https://www.amazon.com/gp/bestsellers/books/294/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 295 - https://www.amazon.com/gp/bestsellers/books/295/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 296 - https://www.amazon.com/gp/bestsellers/books/296/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 297 - Category undefined with 0 books
+PAGE 297 - https://www.amazon.com/gp/bestsellers/books/297/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 298 - https://www.amazon.com/gp/bestsellers/books/298/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 299 - Category undefined with 0 books
+PAGE 299 - https://www.amazon.com/gp/bestsellers/books/299/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 300 - Category undefined with 0 books
+PAGE 300 - https://www.amazon.com/gp/bestsellers/books/300/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 301 - https://www.amazon.com/gp/bestsellers/books/301/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 302 - https://www.amazon.com/gp/bestsellers/books/302/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 303 - Category undefined with 0 books
+PAGE 303 - https://www.amazon.com/gp/bestsellers/books/303/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 304 - Category undefined with 0 books
+PAGE 304 - https://www.amazon.com/gp/bestsellers/books/304/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 305 - Category undefined with 0 books
+PAGE 305 - https://www.amazon.com/gp/bestsellers/books/305/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 306 - https://www.amazon.com/gp/bestsellers/books/306/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 307 - https://www.amazon.com/gp/bestsellers/books/307/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 308 - https://www.amazon.com/gp/bestsellers/books/308/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 309 - https://www.amazon.com/gp/bestsellers/books/309/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 310 - Category undefined with 0 books
+PAGE 310 - https://www.amazon.com/gp/bestsellers/books/310/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 311 - Category undefined with 0 books
+PAGE 311 - https://www.amazon.com/gp/bestsellers/books/311/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 312 - https://www.amazon.com/gp/bestsellers/books/312/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 313 - https://www.amazon.com/gp/bestsellers/books/313/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 314 - https://www.amazon.com/gp/bestsellers/books/314/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 315 - Category undefined with 0 books
+PAGE 315 - https://www.amazon.com/gp/bestsellers/books/315/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 316 - https://www.amazon.com/gp/bestsellers/books/316/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 317 - https://www.amazon.com/gp/bestsellers/books/317/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 318 - Category undefined with 0 books
+PAGE 318 - https://www.amazon.com/gp/bestsellers/books/318/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 319 - https://www.amazon.com/gp/bestsellers/books/319/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 320 - Category undefined with 0 books
+PAGE 320 - https://www.amazon.com/gp/bestsellers/books/320/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 321 - Category undefined with 0 books
+PAGE 321 - https://www.amazon.com/gp/bestsellers/books/321/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 322 - https://www.amazon.com/gp/bestsellers/books/322/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 323 - Category undefined with 0 books
+PAGE 323 - https://www.amazon.com/gp/bestsellers/books/323/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 324 - https://www.amazon.com/gp/bestsellers/books/324/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 325 - https://www.amazon.com/gp/bestsellers/books/325/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 326 - Category undefined with 0 books
+PAGE 326 - https://www.amazon.com/gp/bestsellers/books/326/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 327 - Category undefined with 0 books
+PAGE 327 - https://www.amazon.com/gp/bestsellers/books/327/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 328 - https://www.amazon.com/gp/bestsellers/books/328/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 329 - https://www.amazon.com/gp/bestsellers/books/329/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 330 - Category undefined with 0 books
+PAGE 330 - https://www.amazon.com/gp/bestsellers/books/330/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 331 - https://www.amazon.com/gp/bestsellers/books/331/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 332 - Category undefined with 0 books
+PAGE 332 - https://www.amazon.com/gp/bestsellers/books/332/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 333 - https://www.amazon.com/gp/bestsellers/books/333/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 334 - https://www.amazon.com/gp/bestsellers/books/334/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 335 - Category undefined with 0 books
+PAGE 335 - https://www.amazon.com/gp/bestsellers/books/335/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 336 - Category undefined with 0 books
+PAGE 336 - https://www.amazon.com/gp/bestsellers/books/336/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 337 - https://www.amazon.com/gp/bestsellers/books/337/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 338 - https://www.amazon.com/gp/bestsellers/books/338/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 339 - https://www.amazon.com/gp/bestsellers/books/339/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 340 - https://www.amazon.com/gp/bestsellers/books/340/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 341 - Category undefined with 0 books
+PAGE 341 - https://www.amazon.com/gp/bestsellers/books/341/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 342 - Category undefined with 0 books
+PAGE 342 - https://www.amazon.com/gp/bestsellers/books/342/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 343 - https://www.amazon.com/gp/bestsellers/books/343/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 344 - Category undefined with 0 books
+PAGE 344 - https://www.amazon.com/gp/bestsellers/books/344/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 345 - https://www.amazon.com/gp/bestsellers/books/345/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 346 - https://www.amazon.com/gp/bestsellers/books/346/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 347 - Category undefined with 0 books
+PAGE 347 - https://www.amazon.com/gp/bestsellers/books/347/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 348 - Category undefined with 0 books
+PAGE 348 - https://www.amazon.com/gp/bestsellers/books/348/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 349 - Category undefined with 0 books
+PAGE 349 - https://www.amazon.com/gp/bestsellers/books/349/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 350 - https://www.amazon.com/gp/bestsellers/books/350/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 351 - Category undefined with 0 books
+PAGE 351 - https://www.amazon.com/gp/bestsellers/books/351/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 352 - https://www.amazon.com/gp/bestsellers/books/352/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 353 - https://www.amazon.com/gp/bestsellers/books/353/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 354 - https://www.amazon.com/gp/bestsellers/books/354/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 355 - Category undefined with 0 books
+PAGE 355 - https://www.amazon.com/gp/bestsellers/books/355/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 356 - Category undefined with 0 books
+PAGE 356 - https://www.amazon.com/gp/bestsellers/books/356/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 357 - https://www.amazon.com/gp/bestsellers/books/357/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 358 - https://www.amazon.com/gp/bestsellers/books/358/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 359 - Category undefined with 0 books
+PAGE 359 - https://www.amazon.com/gp/bestsellers/books/359/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 360 - Category undefined with 0 books
+PAGE 360 - https://www.amazon.com/gp/bestsellers/books/360/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 361 - https://www.amazon.com/gp/bestsellers/books/361/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 362 - Category undefined with 0 books
+PAGE 362 - https://www.amazon.com/gp/bestsellers/books/362/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 363 - Category undefined with 0 books
+PAGE 363 - https://www.amazon.com/gp/bestsellers/books/363/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 364 - https://www.amazon.com/gp/bestsellers/books/364/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 365 - Category undefined with 0 books
+PAGE 365 - https://www.amazon.com/gp/bestsellers/books/365/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 366 - https://www.amazon.com/gp/bestsellers/books/366/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 367 - Category  with 0 books
+PAGE 367 - https://www.amazon.com/gp/bestsellers/books/367/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 368 - https://www.amazon.com/gp/bestsellers/books/368/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 369 - https://www.amazon.com/gp/bestsellers/books/369/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 370 - https://www.amazon.com/gp/bestsellers/books/370/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 371 - https://www.amazon.com/gp/bestsellers/books/371/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 372 - https://www.amazon.com/gp/bestsellers/books/372/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 373 - https://www.amazon.com/gp/bestsellers/books/373/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 374 - Category undefined with 0 books
+PAGE 374 - https://www.amazon.com/gp/bestsellers/books/374/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 375 - Category undefined with 0 books
+PAGE 375 - https://www.amazon.com/gp/bestsellers/books/375/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 376 - Category undefined with 0 books
+PAGE 376 - https://www.amazon.com/gp/bestsellers/books/376/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 377 - https://www.amazon.com/gp/bestsellers/books/377/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 378 - https://www.amazon.com/gp/bestsellers/books/378/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 379 - Category undefined with 0 books
+PAGE 379 - https://www.amazon.com/gp/bestsellers/books/379/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 380 - https://www.amazon.com/gp/bestsellers/books/380/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 381 - https://www.amazon.com/gp/bestsellers/books/381/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 382 - https://www.amazon.com/gp/bestsellers/books/382/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 383 - Category undefined with 0 books
+PAGE 383 - https://www.amazon.com/gp/bestsellers/books/383/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 384 - Category  with 0 books
+PAGE 384 - https://www.amazon.com/gp/bestsellers/books/384/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 385 - https://www.amazon.com/gp/bestsellers/books/385/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 386 - https://www.amazon.com/gp/bestsellers/books/386/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 387 - https://www.amazon.com/gp/bestsellers/books/387/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 388 - https://www.amazon.com/gp/bestsellers/books/388/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 389 - Category undefined with 0 books
+PAGE 389 - https://www.amazon.com/gp/bestsellers/books/389/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 390 - https://www.amazon.com/gp/bestsellers/books/390/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 391 - https://www.amazon.com/gp/bestsellers/books/391/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 392 - https://www.amazon.com/gp/bestsellers/books/392/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 393 - Category undefined with 0 books
+PAGE 393 - https://www.amazon.com/gp/bestsellers/books/393/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 394 - https://www.amazon.com/gp/bestsellers/books/394/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 395 - https://www.amazon.com/gp/bestsellers/books/395/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 396 - Category undefined with 0 books
+PAGE 396 - https://www.amazon.com/gp/bestsellers/books/396/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 397 - Category undefined with 0 books
+PAGE 397 - https://www.amazon.com/gp/bestsellers/books/397/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 398 - https://www.amazon.com/gp/bestsellers/books/398/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 399 - Category undefined with 0 books
+PAGE 399 - https://www.amazon.com/gp/bestsellers/books/399/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 400 - Category undefined with 0 books
+PAGE 400 - https://www.amazon.com/gp/bestsellers/books/400/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 401 - Category undefined with 0 books
+PAGE 401 - https://www.amazon.com/gp/bestsellers/books/401/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 402 - https://www.amazon.com/gp/bestsellers/books/402/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 403 - https://www.amazon.com/gp/bestsellers/books/403/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 404 - https://www.amazon.com/gp/bestsellers/books/404/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 405 - https://www.amazon.com/gp/bestsellers/books/405/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 406 - https://www.amazon.com/gp/bestsellers/books/406/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 407 - https://www.amazon.com/gp/bestsellers/books/407/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 408 - Category undefined with 0 books
+PAGE 408 - https://www.amazon.com/gp/bestsellers/books/408/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 409 - Category  with 0 books
+PAGE 409 - https://www.amazon.com/gp/bestsellers/books/409/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 410 - Category undefined with 0 books
+PAGE 410 - https://www.amazon.com/gp/bestsellers/books/410/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 411 - Category undefined with 0 books
+PAGE 411 - https://www.amazon.com/gp/bestsellers/books/411/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 412 - Category  with 0 books
+PAGE 412 - https://www.amazon.com/gp/bestsellers/books/412/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 413 - https://www.amazon.com/gp/bestsellers/books/413/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 414 - Category undefined with 0 books
+PAGE 414 - https://www.amazon.com/gp/bestsellers/books/414/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 415 - https://www.amazon.com/gp/bestsellers/books/415/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 416 - https://www.amazon.com/gp/bestsellers/books/416/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 417 - Category undefined with 0 books
+PAGE 417 - https://www.amazon.com/gp/bestsellers/books/417/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 418 - Category undefined with 0 books
+PAGE 418 - https://www.amazon.com/gp/bestsellers/books/418/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 419 - Category undefined with 0 books
+PAGE 419 - https://www.amazon.com/gp/bestsellers/books/419/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 420 - Category undefined with 0 books
+PAGE 420 - https://www.amazon.com/gp/bestsellers/books/420/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 421 - https://www.amazon.com/gp/bestsellers/books/421/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 422 - Category undefined with 0 books
+PAGE 422 - https://www.amazon.com/gp/bestsellers/books/422/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 423 - https://www.amazon.com/gp/bestsellers/books/423/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 424 - Category undefined with 0 books
+PAGE 424 - https://www.amazon.com/gp/bestsellers/books/424/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 425 - https://www.amazon.com/gp/bestsellers/books/425/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 426 - Category  with 0 books
+PAGE 426 - https://www.amazon.com/gp/bestsellers/books/426/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 427 - Category undefined with 0 books
+PAGE 427 - https://www.amazon.com/gp/bestsellers/books/427/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 428 - Category  with 0 books
+PAGE 428 - https://www.amazon.com/gp/bestsellers/books/428/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 429 - https://www.amazon.com/gp/bestsellers/books/429/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 430 - https://www.amazon.com/gp/bestsellers/books/430/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 431 - https://www.amazon.com/gp/bestsellers/books/431/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 432 - https://www.amazon.com/gp/bestsellers/books/432/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 433 - Category undefined with 0 books
+PAGE 433 - https://www.amazon.com/gp/bestsellers/books/433/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 434 - Category undefined with 0 books
+PAGE 434 - https://www.amazon.com/gp/bestsellers/books/434/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 435 - https://www.amazon.com/gp/bestsellers/books/435/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 436 - https://www.amazon.com/gp/bestsellers/books/436/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 437 - Category undefined with 0 books
+PAGE 437 - https://www.amazon.com/gp/bestsellers/books/437/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 438 - https://www.amazon.com/gp/bestsellers/books/438/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 439 - Category undefined with 0 books
+PAGE 439 - https://www.amazon.com/gp/bestsellers/books/439/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 440 - Category  with 0 books
+PAGE 440 - https://www.amazon.com/gp/bestsellers/books/440/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 441 - Category undefined with 0 books
+PAGE 441 - https://www.amazon.com/gp/bestsellers/books/441/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 442 - Category  with 0 books
+PAGE 442 - https://www.amazon.com/gp/bestsellers/books/442/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 443 - Category  with 0 books
+PAGE 443 - https://www.amazon.com/gp/bestsellers/books/443/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 444 - https://www.amazon.com/gp/bestsellers/books/444/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 445 - Category undefined with 0 books
+PAGE 445 - https://www.amazon.com/gp/bestsellers/books/445/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 446 - https://www.amazon.com/gp/bestsellers/books/446/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 447 - https://www.amazon.com/gp/bestsellers/books/447/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 448 - https://www.amazon.com/gp/bestsellers/books/448/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 449 - Category undefined with 0 books
+PAGE 449 - https://www.amazon.com/gp/bestsellers/books/449/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 450 - https://www.amazon.com/gp/bestsellers/books/450/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 451 - https://www.amazon.com/gp/bestsellers/books/451/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 452 - Category undefined with 0 books
+PAGE 452 - https://www.amazon.com/gp/bestsellers/books/452/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 453 - Category undefined with 0 books
+PAGE 453 - https://www.amazon.com/gp/bestsellers/books/453/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 454 - Category undefined with 0 books
+PAGE 454 - https://www.amazon.com/gp/bestsellers/books/454/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 455 - Category  with 0 books
+PAGE 455 - https://www.amazon.com/gp/bestsellers/books/455/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 456 - Category undefined with 0 books
+PAGE 456 - https://www.amazon.com/gp/bestsellers/books/456/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 457 - Category undefined with 0 books
+PAGE 457 - https://www.amazon.com/gp/bestsellers/books/457/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 458 - Category undefined with 0 books
+PAGE 458 - https://www.amazon.com/gp/bestsellers/books/458/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 459 - https://www.amazon.com/gp/bestsellers/books/459/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 460 - Category undefined with 0 books
+PAGE 460 - https://www.amazon.com/gp/bestsellers/books/460/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 461 - https://www.amazon.com/gp/bestsellers/books/461/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 462 - https://www.amazon.com/gp/bestsellers/books/462/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 463 - Category  with 0 books
+PAGE 463 - https://www.amazon.com/gp/bestsellers/books/463/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 464 - Category undefined with 0 books
+PAGE 464 - https://www.amazon.com/gp/bestsellers/books/464/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 465 - Category undefined with 0 books
+PAGE 465 - https://www.amazon.com/gp/bestsellers/books/465/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 466 - Category undefined with 0 books
+PAGE 466 - https://www.amazon.com/gp/bestsellers/books/466/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 467 - Category undefined with 0 books
+PAGE 467 - https://www.amazon.com/gp/bestsellers/books/467/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 468 - https://www.amazon.com/gp/bestsellers/books/468/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 469 - https://www.amazon.com/gp/bestsellers/books/469/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 470 - https://www.amazon.com/gp/bestsellers/books/470/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 471 - https://www.amazon.com/gp/bestsellers/books/471/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 472 - https://www.amazon.com/gp/bestsellers/books/472/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 473 - Category undefined with 0 books
+PAGE 473 - https://www.amazon.com/gp/bestsellers/books/473/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 474 - Category undefined with 0 books
+PAGE 474 - https://www.amazon.com/gp/bestsellers/books/474/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 475 - https://www.amazon.com/gp/bestsellers/books/475/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 476 - Category undefined with 0 books
+PAGE 476 - https://www.amazon.com/gp/bestsellers/books/476/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 477 - https://www.amazon.com/gp/bestsellers/books/477/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 478 - https://www.amazon.com/gp/bestsellers/books/478/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 479 - Category undefined with 0 books
+PAGE 479 - https://www.amazon.com/gp/bestsellers/books/479/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 480 - https://www.amazon.com/gp/bestsellers/books/480/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 481 - Category undefined with 0 books
+PAGE 481 - https://www.amazon.com/gp/bestsellers/books/481/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 482 - https://www.amazon.com/gp/bestsellers/books/482/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 483 - https://www.amazon.com/gp/bestsellers/books/483/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 484 - https://www.amazon.com/gp/bestsellers/books/484/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 485 - https://www.amazon.com/gp/bestsellers/books/485/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 486 - https://www.amazon.com/gp/bestsellers/books/486/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 487 - Category undefined with 0 books
+PAGE 487 - https://www.amazon.com/gp/bestsellers/books/487/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 488 - Category undefined with 0 books
+PAGE 488 - https://www.amazon.com/gp/bestsellers/books/488/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 489 - Category undefined with 0 books
+PAGE 489 - https://www.amazon.com/gp/bestsellers/books/489/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 490 - Category undefined with 0 books
+PAGE 490 - https://www.amazon.com/gp/bestsellers/books/490/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 491 - Category undefined with 0 books
+PAGE 491 - https://www.amazon.com/gp/bestsellers/books/491/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 492 - Category  with 0 books
+PAGE 492 - https://www.amazon.com/gp/bestsellers/books/492/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 493 - Category undefined with 0 books
+PAGE 493 - https://www.amazon.com/gp/bestsellers/books/493/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 8 - Category undefined with 0 books
+PAGE 8 - https://www.amazon.com/gp/bestsellers/books/8/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 10 - Category Health, Fitness & Dieting with 30 books
+Processing page 11 - Category undefined with 0 books
+PAGE 11 - https://www.amazon.com/gp/bestsellers/books/11/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 12 - https://www.amazon.com/gp/bestsellers/books/12/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 13 - Category undefined with 0 books
+PAGE 13 - https://www.amazon.com/gp/bestsellers/books/13/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 14 - https://www.amazon.com/gp/bestsellers/books/14/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 15 - Category undefined with 0 books
+PAGE 15 - https://www.amazon.com/gp/bestsellers/books/15/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 19 - https://www.amazon.com/gp/bestsellers/books/19/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 20 - Category Parenting & Relationships with 30 books
+Processing page 24 - Category undefined with 0 books
+PAGE 24 - https://www.amazon.com/gp/bestsellers/books/24/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 29 - https://www.amazon.com/gp/bestsellers/books/29/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 33 - Category International Music with 30 books
+Processing page 41 - Category undefined with 0 books
+PAGE 41 - https://www.amazon.com/gp/bestsellers/books/41/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 43 - Category undefined with 0 books
+PAGE 43 - https://www.amazon.com/gp/bestsellers/books/43/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 8 - Category undefined with 0 books
+PAGE 8 - https://www.amazon.com/gp/bestsellers/books/8/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+Processing page 11 - Category undefined with 0 books
+PAGE 11 - https://www.amazon.com/gp/bestsellers/books/11/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
+PAGE 12 - https://www.amazon.com/gp/bestsellers/books/12/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+PAGE 13 - https://www.amazon.com/gp/bestsellers/books/13/ref=pd_zg_hrsr_books 		 ----------------ERROR - reading page
+Processing page 14 - Category undefined with 0 books
+PAGE 14 - https://www.amazon.com/gp/bestsellers/books/14/ref=pd_zg_hrsr_books 		 ----------------ERROR - NO BOOKS found
